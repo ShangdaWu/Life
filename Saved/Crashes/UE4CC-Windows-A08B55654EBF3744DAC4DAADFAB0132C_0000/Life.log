@@ -1,0 +1,1545 @@
+﻿Log file open, 12/16/17 10:44:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Life
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1211631113) SRandInit(-1211631113).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.170559
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: D:/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.16-02.44.34:640][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.16-02.44.34:640][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.16-02.44.34:651][  0]LogInit: Computer: DESKTOP-LSRTGJ7
+[2017.12.16-02.44.34:651][  0]LogInit: User: ShangdaWu
+[2017.12.16-02.44.34:651][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.16-02.44.34:651][  0]LogInit: High frequency timer resolution =2.648436 MHz
+[2017.12.16-02.44.34:651][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.12.16-02.44.34:651][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.16-02.44.34:651][  0]LogMemory: Process Physical Memory: 272.35 MB used, 272.35 MB peak
+[2017.12.16-02.44.34:651][  0]LogMemory: Process Virtual Memory: 269.67 MB used, 269.67 MB peak
+[2017.12.16-02.44.34:651][  0]LogMemory: Physical Memory: 4411.59 MB used,  3661.23 MB free, 8072.82 MB total
+[2017.12.16-02.44.34:651][  0]LogMemory: Virtual Memory: 643.53 MB used,  3661.23 MB free, 134217728.00 MB total
+[2017.12.16-02.44.34:759][  0]LogInit: Overriding language with editor language configuration option (en).
+[2017.12.16-02.44.34:759][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2017.12.16-02.44.35:312][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.16-02.44.35:554][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.16-02.44.35:635][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2017.12.16-02.44.35:635][  0]LogD3D11RHI:       6061/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.16-02.44.35:645][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2017.12.16-02.44.35:645][  0]LogD3D11RHI:       128/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.12.16-02.44.35:646][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.16-02.44.35:646][  0]LogD3D11RHI:       0/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.16-02.44.35:646][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.16-02.44.35:656][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.16-02.44.35:656][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.16-02.44.35:656][  0]LogWindows: EnumDisplayDevices:
+[2017.12.16-02.44.35:656][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2017.12.16-02.44.35:656][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.12.16-02.44.35:656][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.12.16-02.44.35:656][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.12.16-02.44.35:657][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.12.16-02.44.35:657][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.12.16-02.44.35:657][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.12.16-02.44.35:657][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.12.16-02.44.35:657][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2017.12.16-02.44.35:657][  0]LogD3D11RHI:   Driver Version: 388.43 (internal:23.21.13.8843, unified:388.43)
+[2017.12.16-02.44.35:657][  0]LogD3D11RHI:      Driver Date: 11-27-2017
+[2017.12.16-02.44.35:657][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2017.12.16-02.44.35:685][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.16-02.44.35:699][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.16-02.44.35:700][  0]LogShaderCompilers: Guid format shader working directory is 41 characters bigger than the processId version (E:/UE/Life/Intermediate/Shaders/WorkingDirectory/4608/).
+[2017.12.16-02.44.35:701][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Shangda.Wu/AppData/Local/Temp/UnrealShaderWorkingDir/539A58CF42CE39F3831BF4A3AE3E4415/'.
+[2017.12.16-02.44.35:701][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.16-02.44.36:814][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.16-02.44.36:858][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.16-02.44.36:902][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.16-02.44.36:940][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.16-02.44.36:977][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.16-02.44.37:021][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.16-02.44.37:060][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.16-02.44.37:104][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.16-02.44.37:139][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.16-02.44.37:177][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.16-02.44.37:214][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.16-02.44.37:257][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.16-02.44.37:299][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.16-02.44.37:337][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.16-02.44.37:420][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.16-02.44.37:420][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.16-02.44.37:459][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.16-02.44.37:484][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.16-02.44.37:577][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.16-02.44.37:598][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.16-02.44.37:645][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.16-02.44.37:696][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.16-02.44.37:740][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.16-02.44.37:775][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.16-02.44.37:775][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.16-02.44.38:113][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.16-02.44.38:221][  0]LogDerivedDataCache: Loaded boot cache 0.11s 78MB C:/Users/Shangda.Wu/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.16-02.44.38:221][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Shangda.Wu/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.16-02.44.38:221][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/UE/Life/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.16-02.44.38:221][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.16-02.44.38:221][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/UE/Life/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.16-02.44.38:221][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.16-02.44.38:239][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.16-02.44.38:252][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Shangda.Wu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.16-02.44.38:265][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.16-02.44.38:266][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.16-02.44.38:267][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.16-02.44.38:267][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.16-02.44.38:648][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.16-02.44.38:935][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.16-02.44.38:970][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.16-02.44.38:970][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.16-02.44.38:970][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.16-02.44.38:970][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.16-02.44.38:970][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.16-02.44.38:997][  0]LogNetVersion: Life , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 383070129)
+[2017.12.16-02.44.39:174][  0]LogAssetRegistry: FAssetRegistry took 0.0312 seconds to start up
+[2017.12.16-02.44.39:732][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.054622 seconds
+[2017.12.16-02.44.39:739][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.16-02.44.39:739][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.12.16-02.44.39:739][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.16-02.44.39:787][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.16-02.44.42:252][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.16-02.44.42:295][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.16-02.44.42:827][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.16-02.44.43:197][  0]SourceControl: Source control is disabled
+[2017.12.16-02.44.43:197][  0]SourceControl: Source control is disabled
+[2017.12.16-02.44.43:238][  0]SourceControl: Source control is disabled
+[2017.12.16-02.44.43:277][  0]SourceControl: Source control is disabled
+[2017.12.16-02.44.43:936][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.16-02.44.44:139][  0]LogOcInput: OculusInput pre-init called
+[2017.12.16-02.44.44:379][  0]LogEngine: Initializing Engine...
+[2017.12.16-02.44.44:383][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.16-02.44.44:666][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.16-02.44.44:667][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.16-02.44.44:783][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.16-02.44.44:795][  0]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.16-02.44.44:820][  0]LogInit: FAudioDevice initialized.
+[2017.12.16-02.44.44:930][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/Shangda.Wu/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.16-02.44.44:958][  0]LogInit: Texture streaming: Enabled
+[2017.12.16-02.44.45:034][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.16-02.44.45:127][  0]LogInit: Transaction tracking system initialized
+[2017.12.16-02.44.45:362][  0]BlueprintLog: New page: Editor Load
+[2017.12.16-02.44.46:146][  0]LocalizationService: Localization service is disabled
+[2017.12.16-02.44.46:726][  0]LogConsoleResponse: Display: 
+[2017.12.16-02.44.46:893][  0]LogFileCache: Scanning file cache for directory 'E:/UE/Life/Content/' took 0.01s
+[2017.12.16-02.44.46:893][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.16-02.44.46:893][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.16-02.44.46:893][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.16-02.44.47:804][  0]SourceControl: Source control is disabled
+[2017.12.16-02.44.47:804][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.16-02.44.47:805][  0]LightingResults: New page: Lighting Build
+[2017.12.16-02.44.47:840][  0]MapCheck: New page: Map Check
+[2017.12.16-02.44.47:840][  0]LightingResults: New page: Lighting Build
+[2017.12.16-02.44.48:078][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2017.12.16-02.44.48:085][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.16-02.44.48:096][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.16-02.44.48:139][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 42.807ms to complete.
+[2017.12.16-02.44.48:139][  0]LogFileHelpers: Loading map 'Template_Default' took 0.335
+[2017.12.16-02.44.48:205][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (微软拼音).
+[2017.12.16-02.44.48:386][  0]LogCollectionManager: Loaded 0 collections in 0.000740 seconds
+[2017.12.16-02.44.48:482][  0]LogFileCache: Scanning file cache for directory 'E:/UE/Life/Saved/Collections/' took 0.01s
+[2017.12.16-02.44.48:482][  0]LogFileCache: Scanning file cache for directory 'E:/UE/Life/Content/Developers/ShangdaWu/Collections/' took 0.01s
+[2017.12.16-02.44.48:482][  0]LogFileCache: Scanning file cache for directory 'E:/UE/Life/Content/Collections/' took 0.01s
+[2017.12.16-02.44.48:482][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.12.16-02.44.48:492][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2363 classes and 519 folders.
+[2017.12.16-02.44.48:545][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.12.16-02.44.50:640][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.12.16-02.44.51:087][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.16-02.44.51:249][  0]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.16-02.44.51:251][  0]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.16-02.44.51:299][  0]LogSlate: Took 0.040522 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.16-02.44.51:539][  0]LogRenderer: Reallocating scene render targets to support 1208x508 Format 10 NumSamples 1 (Frame:1).
+[2017.12.16-02.44.51:782][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.16-02.44.51:782][  0]LogLoad: (Engine Initialization) Total time: 19.02 seconds
+[2017.12.16-02.44.51:782][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.16-02.44.51:782][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.12.16-02.44.51:854][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.16-02.44.53:771][105]LogAssetRegistry: Asset discovery search completed in 14.6190 seconds
+[2017.12.16-02.44.53:773][105]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.16-02.44.53:773][105]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2017.12.16-02.45.07:182][900]LogEditorActor: Deleted Actor: AtmosphericFog
+[2017.12.16-02.45.07:193][900]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2017.12.16-02.45.07:810][931]LogEditorActor: Actor Light Source is referenced by Sky Sphere.
+[2017.12.16-02.45.09:221][931]LogEditorActor: Deleted Actor: DirectionalLight
+[2017.12.16-02.45.09:231][931]LogEditorActor: Deleted 1 Actors (1.422 secs)
+[2017.12.16-02.45.10:327][991]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2017.12.16-02.45.10:339][991]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2017.12.16-02.45.10:791][ 12]LogEditorActor: Deleted Actor: SkyLight
+[2017.12.16-02.45.10:800][ 12]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.12.16-02.45.11:160][ 34]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2017.12.16-02.45.11:169][ 34]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.12.16-02.45.11:725][ 67]LogEditorActor: Deleted Actor: PlayerStart
+[2017.12.16-02.45.11:734][ 67]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2017.12.16-02.45.12:229][ 91]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.16-02.45.12:239][ 91]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.12.16-02.45.30:232][160]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.16-02.46.34:682][267]LogSlate: Took 0.000419 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.16-02.46.34:701][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.16-02.46.34:737][267]LogSavePackage: Save=17.87ms
+[2017.12.16-02.46.34:737][267]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_ScenesA7353A7B4D9F55C432F3A98F52EED123.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap'
+[2017.12.16-02.46.34:742][267]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap
+[2017.12.16-02.46.34:811][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes_BuiltData" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset" SILENT=true
+[2017.12.16-02.46.34:829][267]LogSavePackage: Save=15.85ms
+[2017.12.16-02.46.34:829][267]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_Scenes_BuiltData4BA0998F40257BBD3F01E1AB03D9B612.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset'
+[2017.12.16-02.46.34:829][267]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset
+[2017.12.16-02.46.34:838][267]LogFileHelpers: Saving map 'Game_Scenes' took 0.200
+[2017.12.16-02.46.36:923][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.16-02.46.36:992][392]LogSavePackage: Save=52.10ms
+[2017.12.16-02.46.36:992][392]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_Scenes7FF7D3AF41024661CF314182BA21FBB4.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap'
+[2017.12.16-02.46.36:993][392]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap
+[2017.12.16-02.46.37:002][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes_BuiltData" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset" SILENT=true
+[2017.12.16-02.46.37:024][392]LogSavePackage: Save=14.85ms
+[2017.12.16-02.46.37:025][392]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_Scenes_BuiltData7A0E927849E12EDC6DB21D8C1683DAC9.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset'
+[2017.12.16-02.46.37:025][392]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset
+[2017.12.16-02.46.50:145][ 60]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.12.16-02.46.50:223][ 61]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Life
+[2017.12.16-02.46.50:223][ 61]LogTemp: CWD: D:\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.16-02.46.50:224][ 61]LogTemp: Initial Dir: D:\Epic Games\UE_4.18
+[2017.12.16-02.46.50:224][ 61]LogTemp: Env CWD: D:\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.16-02.46.50:224][ 61]LogTemp: BranchPath = DESKTOP-LSRTGJ7/D/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-LSRTGJ7/D/Epic Games/UE_4.18/Engine/Binaries
+[2017.12.16-02.46.50:249][ 62]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Shangda.Wu\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.12.16-02.46.57:116][440]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.16-02.47.04:060][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.16-02.47.04:086][848]LogSavePackage: Save=11.05ms
+[2017.12.16-02.47.04:086][848]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_Scenes37EDF8FB4275A0A16F12D6BB904CFA4F.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap'
+[2017.12.16-02.47.04:087][848]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap
+[2017.12.16-02.47.04:106][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes_BuiltData" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset" SILENT=true
+[2017.12.16-02.47.04:125][848]LogSavePackage: Save=18.03ms
+[2017.12.16-02.47.04:125][848]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_Scenes_BuiltData0893E1394ED0B0B9732BE09BF888E184.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset'
+[2017.12.16-02.47.04:125][848]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset
+[2017.12.16-02.47.05:166][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.16-02.47.05:192][910]LogSavePackage: Save=15.11ms
+[2017.12.16-02.47.05:192][910]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_Scenes468D25564075FEA23A46099E4BDDC398.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap'
+[2017.12.16-02.47.05:192][910]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap
+[2017.12.16-02.47.05:211][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes_BuiltData" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset" SILENT=true
+[2017.12.16-02.47.05:224][910]LogSavePackage: Save=11.51ms
+[2017.12.16-02.47.05:224][910]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_Scenes_BuiltData12467F5B410371F08692BBA337CB0F54.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset'
+[2017.12.16-02.47.05:224][910]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset
+[2017.12.16-02.47.19:969][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.16-02.47.19:990][645]LogSavePackage: Save=9.21ms
+[2017.12.16-02.47.19:990][645]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_Scenes9EA7F45E409D75F86483D98DE3F2DD08.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap'
+[2017.12.16-02.47.19:991][645]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap
+[2017.12.16-02.47.20:009][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes_BuiltData" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset" SILENT=true
+[2017.12.16-02.47.20:026][645]LogSavePackage: Save=14.28ms
+[2017.12.16-02.47.20:026][645]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_Scenes_BuiltData26E1DE1A4E02BC0441E2649E01EAC706.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset'
+[2017.12.16-02.47.20:027][645]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset
+[2017.12.16-02.47.29:401][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.16-02.47.29:422][149]LogSavePackage: Save=8.41ms
+[2017.12.16-02.47.29:422][149]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_ScenesFA53253E4BBF3CC6BB6FA6A08B6B8B1C.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap'
+[2017.12.16-02.47.29:422][149]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap
+[2017.12.16-02.47.29:442][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes_BuiltData" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset" SILENT=true
+[2017.12.16-02.47.29:455][149]LogSavePackage: Save=11.23ms
+[2017.12.16-02.47.29:455][149]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_Scenes_BuiltDataC05534244B6D5FB2B75D3EAD1B086EB5.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset'
+[2017.12.16-02.47.29:456][149]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset
+[2017.12.16-02.47.30:949][236]LogEditorViewport: Clicking Background
+[2017.12.16-02.48.24:854][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_GameMode" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset" SILENT=true
+[2017.12.16-02.48.24:868][122]LogSavePackage: Save=11.37ms
+[2017.12.16-02.48.24:868][122]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_GameMode25B679354A44D80DAA61C2B35AAA8DE1.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset'
+[2017.12.16-02.48.24:870][122]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset
+[2017.12.16-02.48.47:505][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_Pawn" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_Pawn.uasset" SILENT=true
+[2017.12.16-02.48.47:527][366]LogSavePackage: Save=15.75ms
+[2017.12.16-02.48.47:528][366]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_Pawn84E0DFCF44416756305A61B7C32C92E3.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_Pawn.uasset'
+[2017.12.16-02.48.47:529][366]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_Pawn.uasset
+[2017.12.16-02.49.25:503][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_Player_Controller" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_Controller.uasset" SILENT=true
+[2017.12.16-02.49.25:522][477]LogSavePackage: Save=14.34ms
+[2017.12.16-02.49.25:522][477]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_Player_ControllerB9E8B76949018FD1DE87209F7C5ADB3F.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_Controller.uasset'
+[2017.12.16-02.49.25:524][477]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_Controller.uasset
+[2017.12.16-02.50.06:863][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_Game_State" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_Game_State.uasset" SILENT=true
+[2017.12.16-02.50.06:878][652]LogSavePackage: Save=13.45ms
+[2017.12.16-02.50.06:878][652]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_Game_StateC3F227C148AC21D152108F953D5D8EF4.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_Game_State.uasset'
+[2017.12.16-02.50.06:879][652]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_Game_State.uasset
+[2017.12.16-02.51.11:206][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_Player_State" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_State.uasset" SILENT=true
+[2017.12.16-02.51.11:221][556]LogSavePackage: Save=12.59ms
+[2017.12.16-02.51.11:221][556]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_Player_State9A5CFB04430C6EF049D2A1B7BC78891A.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_State.uasset'
+[2017.12.16-02.51.11:223][556]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_State.uasset
+[2017.12.16-02.51.12:746][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_Player_State" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_State.uasset" SILENT=true
+[2017.12.16-02.51.12:803][644]LogSavePackage: Save=49.86ms
+[2017.12.16-02.51.12:803][644]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_Player_StateEF7A9C0843EC51E0336A48891B801678.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_State.uasset'
+[2017.12.16-02.51.12:803][644]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_State.uasset
+[2017.12.16-02.57.29:704][844]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Game_Scenes/Game_Scenes' took 0.010
+[2017.12.16-02.57.29:706][844]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game_Mode/NewBlueprint] ([1] browsable assets)...
+[2017.12.16-02.57.29:706][844]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game_Mode/NewBlueprint]
+[2017.12.16-02.57.29:706][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/NewBlueprint" FILE="E:/UE/Life/Saved/Autosaves/Game/Game_Mode/NewBlueprint_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.16-02.57.29:725][844]LogSavePackage: Save=17.33ms
+[2017.12.16-02.57.29:725][844]LogSavePackage: Moving 'E:/UE/Life/Saved/NewBlueprint_Auto19E487DCF4A35B63CBCA59D964F3903AD.tmp' to 'E:/UE/Life/Saved/Autosaves/Game/Game_Mode/NewBlueprint_Auto1.uasset'
+[2017.12.16-02.57.29:726][844]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Saved/Autosaves/Game/Game_Mode/NewBlueprint_Auto1.uasset
+[2017.12.16-02.57.29:726][844]LogFileHelpers: Auto-saving content packages took 0.021
+[2017.12.16-03.16.17:638][872]LogMetaData: Removing '/Game/Game_Mode/Shangda_Wu_Player_State.Shangda_Wu_Player_State:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Game_Mode/NewBlueprint.PackageMetaData'
+[2017.12.16-03.16.17:638][872]LogMetaData: Removing '/Game/Game_Mode/Shangda_Wu_Player_State.SKEL_Shangda_Wu_Player_State_C' ref from Metadata '/Game/Game_Mode/NewBlueprint.PackageMetaData'
+[2017.12.16-03.16.17:638][872]LogMetaData: Removing '/Game/Game_Mode/Shangda_Wu_Player_State.Shangda_Wu_Player_State_C' ref from Metadata '/Game/Game_Mode/NewBlueprint.PackageMetaData'
+[2017.12.16-03.16.17:638][872]LogMetaData: Removing '/Game/Game_Mode/Shangda_Wu_Player_State.Shangda_Wu_Player_State:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Game_Mode/NewBlueprint.PackageMetaData'
+[2017.12.16-03.16.17:638][872]LogMetaData: Removing '/Game/Game_Mode/Shangda_Wu_Player_State.Shangda_Wu_Player_State:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Game_Mode/NewBlueprint.PackageMetaData'
+[2017.12.16-03.16.17:666][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_Player_State" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_State.uasset" SILENT=true
+[2017.12.16-03.16.17:681][872]LogSavePackage: Save=12.79ms
+[2017.12.16-03.16.17:681][872]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_Player_StateCF18E0784DD383CFA73E6FA9B0686E84.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_State.uasset'
+[2017.12.16-03.16.17:682][872]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_State.uasset
+[2017.12.16-03.16.51:855][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_Spectator" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_Spectator.uasset" SILENT=true
+[2017.12.16-03.16.51:872][291]LogSavePackage: Save=15.18ms
+[2017.12.16-03.16.51:872][291]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_SpectatorCB74C3E1465BC2FC77C9CAAC1285C67F.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_Spectator.uasset'
+[2017.12.16-03.16.51:873][291]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_Spectator.uasset
+[2017.12.16-03.16.52:954][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.16-03.16.53:038][355]LogSavePackage: Save=16.18ms
+[2017.12.16-03.16.53:038][355]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_Scenes97E96575441D0AB160B6A0975BC120B4.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap'
+[2017.12.16-03.16.53:039][355]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap
+[2017.12.16-03.16.53:061][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes_BuiltData" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset" SILENT=true
+[2017.12.16-03.16.53:080][355]LogSavePackage: Save=12.09ms
+[2017.12.16-03.16.53:080][355]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_Scenes_BuiltData9136F6564D7E5C2A5245CEAE54791858.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset'
+[2017.12.16-03.16.53:080][355]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset
+[2017.12.16-03.17.00:924][757]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.12.16-03.17.01:009][759]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Life
+[2017.12.16-03.17.01:009][759]LogTemp: CWD: D:\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.16-03.17.01:010][759]LogTemp: Initial Dir: D:\Epic Games\UE_4.18
+[2017.12.16-03.17.01:010][759]LogTemp: Env CWD: D:\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.16-03.17.01:010][759]LogTemp: BranchPath = DESKTOP-LSRTGJ7/D/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-LSRTGJ7/D/Epic Games/UE_4.18/Engine/Binaries
+[2017.12.16-03.17.01:010][759]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Shangda.Wu\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.12.16-03.17.05:120][958]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.16-03.18.10:571][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_HUD" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_HUD.uasset" SILENT=true
+[2017.12.16-03.18.10:586][461]LogSavePackage: Save=13.15ms
+[2017.12.16-03.18.10:586][461]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_HUD10DABD894B8E1F889380BEBB52ADF1B8.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_HUD.uasset'
+[2017.12.16-03.18.10:588][461]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_HUD.uasset
+[2017.12.16-03.18.11:638][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_GameMode" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset" SILENT=true
+[2017.12.16-03.18.11:683][521]LogSavePackage: Save=37.44ms
+[2017.12.16-03.18.11:683][521]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_GameMode7940A6024AE6E037885F45ABB78D11BF.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset'
+[2017.12.16-03.18.11:685][521]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset
+[2017.12.16-03.18.12:381][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_Pawn" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_Pawn.uasset" SILENT=true
+[2017.12.16-03.18.12:411][560]LogSavePackage: Save=14.21ms
+[2017.12.16-03.18.12:412][560]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_PawnB49463094034F7ABFA86B99B57622121.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_Pawn.uasset'
+[2017.12.16-03.18.12:412][560]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_Pawn.uasset
+[2017.12.16-03.18.14:314][673]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.16-03.18.23:093][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.16-03.18.23:116][194]LogSavePackage: Save=9.88ms
+[2017.12.16-03.18.23:116][194]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_ScenesBA70DEF14C8896269D5557B9B6961C81.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap'
+[2017.12.16-03.18.23:119][194]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap
+[2017.12.16-03.18.23:140][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes_BuiltData" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset" SILENT=true
+[2017.12.16-03.18.23:155][194]LogSavePackage: Save=12.94ms
+[2017.12.16-03.18.23:155][194]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_Scenes_BuiltData138366D34D7BE19CFDD4539EE8CA06EF.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset'
+[2017.12.16-03.18.23:155][194]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset
+[2017.12.16-03.18.27:336][381]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.12.16-03.18.27:387][382]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Life
+[2017.12.16-03.18.27:387][382]LogTemp: CWD: D:\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.16-03.18.27:387][382]LogTemp: Initial Dir: D:\Epic Games\UE_4.18
+[2017.12.16-03.18.27:387][382]LogTemp: Env CWD: D:\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.16-03.18.27:387][382]LogTemp: BranchPath = DESKTOP-LSRTGJ7/D/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-LSRTGJ7/D/Epic Games/UE_4.18/Engine/Binaries
+[2017.12.16-03.18.27:423][383]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Shangda.Wu\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.12.16-03.18.33:340][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.16-03.18.33:361][676]LogSavePackage: Save=9.60ms
+[2017.12.16-03.18.33:361][676]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_Scenes2010867C43BA3D3BEEEACEB242CDC6DB.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap'
+[2017.12.16-03.18.33:362][676]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap
+[2017.12.16-03.18.33:395][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes_BuiltData" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset" SILENT=true
+[2017.12.16-03.18.33:411][676]LogSavePackage: Save=12.06ms
+[2017.12.16-03.18.33:411][676]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_Scenes_BuiltDataB774D53D4569D1954204F9BC34573AF6.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset'
+[2017.12.16-03.18.33:411][676]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset
+[2017.12.16-03.18.34:578][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_GameMode" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset" SILENT=true
+[2017.12.16-03.18.34:591][742]LogSavePackage: Save=10.62ms
+[2017.12.16-03.18.34:591][742]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_GameModeCFB9D9C84C41CFA2B9815FBC756C6D95.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset'
+[2017.12.16-03.18.34:593][742]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset
+[2017.12.16-03.19.29:480][  8]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2017.12.16-03.19.30:353][  8]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.16-03.19.33:632][139]LogSlate: Took 0.054818 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.16-03.19.40:279][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_GameMode" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset" SILENT=true
+[2017.12.16-03.19.40:293][517]LogSavePackage: Save=12.37ms
+[2017.12.16-03.19.40:293][517]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_GameModeDCE603FF404C7D3118ADF59E019BB825.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset'
+[2017.12.16-03.19.40:294][517]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset
+[2017.12.16-03.19.41:301][577]BlueprintLog: New page: Compile Shangda_Wu_GameMode
+[2017.12.16-03.21.58:819][307]LogLinker: Can't find file '/Game/GameData/Data_SaveGame_Player_Profession'
+[2017.12.16-03.21.58:820][307]LogLinker: Can't find file '/Game/GameData/Data_SaveGame_Player_Profession'
+[2017.12.16-03.21.58:834][307]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/GameData/Data_SaveGame_Player_Profession.Data_SaveGame_Player_Profession_C"''
+[2017.12.16-03.21.58:834][307]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/GameData/Data_SaveGame_Player_Profession.Data_SaveGame_Player_Profession_C"',MemberName="Player_Name",MemberGuid=3EFD4A704058C2102E0C58A140B0AC8B)'
+[2017.12.16-03.21.58:858][307]LogBlueprint: Warning: [Shangda_Wu_GameMode] 'Player_Name' variable not found. Base class was probably changed. /Game/Game_Mode/Shangda_Wu_GameMode.Shangda_Wu_GameMode
+[2017.12.16-03.21.58:920][308]LogSlate: Took 0.003667 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2017.12.16-03.24.24:601][223]LogMetaData: Removing '/Game/Game_Data/BP_Data_Player_Profession.SKEL_BP_Data_Player_Profession_C' ref from Metadata '/Game/Game_Data/NewBlueprint.PackageMetaData'
+[2017.12.16-03.24.24:601][223]LogMetaData: Removing '/Game/Game_Data/BP_Data_Player_Profession.BP_Data_Player_Profession_C' ref from Metadata '/Game/Game_Data/NewBlueprint.PackageMetaData'
+[2017.12.16-03.24.24:629][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Data/BP_Data_Player_Profession" FILE="E:/UE/Life/Content/Game_Data/BP_Data_Player_Profession.uasset" SILENT=true
+[2017.12.16-03.24.24:640][223]LogSavePackage: Save=8.41ms
+[2017.12.16-03.24.24:641][223]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Data_Player_ProfessionEC27443B48AAE74E0A8C189249CC4A33.tmp' to 'E:/UE/Life/Content/Game_Data/BP_Data_Player_Profession.uasset'
+[2017.12.16-03.24.24:642][223]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Data/BP_Data_Player_Profession.uasset
+[2017.12.16-03.24.26:481][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.16-03.24.26:521][323]LogSavePackage: Save=9.55ms
+[2017.12.16-03.24.26:521][323]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_Scenes577B339741A7EBA46E2613804BEF3205.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap'
+[2017.12.16-03.24.26:522][323]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap
+[2017.12.16-03.24.26:541][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes_BuiltData" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset" SILENT=true
+[2017.12.16-03.24.26:562][323]LogSavePackage: Save=15.51ms
+[2017.12.16-03.24.26:562][323]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_Scenes_BuiltData30E80D2A4A3FD2FA7F20739118868874.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset'
+[2017.12.16-03.24.26:563][323]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset
+[2017.12.16-03.24.52:916][813]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.16-03.25.19:078][359]BlueprintLog: New page: Compile Shangda_Wu_GameMode
+[2017.12.16-03.25.19:134][359]LogBlueprint: Error: [Compiler Shangda_Wu_GameMode] In use pin  Return Value  no longer exists on node  Create Save Game Object . Please refresh node or break links to remove pin.
+[2017.12.16-03.25.19:263][359]LogBlueprint: Warning: [Compiler Shangda_Wu_GameMode] [2446.50] Compile of Shangda_Wu_GameMode failed. 1 Fatal Issue(s) 0 Warning(s) [in 185 ms] (/Game/Game_Mode/Shangda_Wu_GameMode.Shangda_Wu_GameMode)
+[2017.12.16-03.25.39:402][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_GameMode" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset" SILENT=true
+[2017.12.16-03.25.39:432][543]LogSavePackage: Save=21.29ms
+[2017.12.16-03.25.39:432][543]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_GameMode4F353DD640B74010BCF88BBAC3F9E7AD.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset'
+[2017.12.16-03.25.39:433][543]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset
+[2017.12.16-03.25.47:559][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_GameMode" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset" SILENT=true
+[2017.12.16-03.25.47:590][ 23]LogSavePackage: Save=29.06ms
+[2017.12.16-03.25.47:590][ 23]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_GameModeD1DB0B274390454729700FAF24FD74B0.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset'
+[2017.12.16-03.25.47:591][ 23]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset
+[2017.12.16-03.25.52:492][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_GameMode" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset" SILENT=true
+[2017.12.16-03.25.52:537][312]LogSavePackage: Save=43.81ms
+[2017.12.16-03.25.52:537][312]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_GameModeE0727592452B4A4B412E9498C950C237.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset'
+[2017.12.16-03.25.52:538][312]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset
+[2017.12.16-03.25.53:577][373]BlueprintLog: New page: Compile Shangda_Wu_GameMode
+[2017.12.16-03.25.54:189][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_GameMode" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset" SILENT=true
+[2017.12.16-03.25.54:265][401]LogSavePackage: Save=73.98ms
+[2017.12.16-03.25.54:265][401]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_GameMode4A344CCC48730159207DC38B71F93971.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset'
+[2017.12.16-03.25.54:266][401]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset
+[2017.12.16-03.25.56:645][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.16-03.25.56:677][541]LogSavePackage: Save=9.17ms
+[2017.12.16-03.25.56:677][541]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_Scenes89C9F03D40C19E21170683A8E979B51D.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap'
+[2017.12.16-03.25.56:677][541]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap
+[2017.12.16-03.25.56:702][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes_BuiltData" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset" SILENT=true
+[2017.12.16-03.25.56:717][541]LogSavePackage: Save=12.87ms
+[2017.12.16-03.25.56:717][541]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_Scenes_BuiltData978B70A94C64D917908E29A5CD93C1A9.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset'
+[2017.12.16-03.25.56:718][541]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset
+[2017.12.16-03.26.39:685][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.16-03.26.39:722][ 98]LogSavePackage: Save=10.74ms
+[2017.12.16-03.26.39:722][ 98]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_Scenes71069CF441CA78182359D680FD44E88D.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap'
+[2017.12.16-03.26.39:723][ 98]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap
+[2017.12.16-03.26.39:743][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes_BuiltData" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset" SILENT=true
+[2017.12.16-03.26.39:757][ 98]LogSavePackage: Save=11.61ms
+[2017.12.16-03.26.39:757][ 98]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_Scenes_BuiltData7F86DC32495D06EBFCECC38019F8FC87.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset'
+[2017.12.16-03.26.39:758][ 98]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset
+[2017.12.16-03.27.30:981][645]LogMetaData: Removing '/Game/Game_UMG/BP_real_World.SKEL_BP_real_World_C' ref from Metadata '/Game/Game_UMG/BP_Rela.PackageMetaData'
+[2017.12.16-03.27.30:981][645]LogMetaData: Removing '/Game/Game_UMG/BP_real_World.BP_real_World_C' ref from Metadata '/Game/Game_UMG/BP_Rela.PackageMetaData'
+[2017.12.16-03.27.30:981][645]LogMetaData: Removing '/Game/Game_UMG/BP_real_World.BP_real_World:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Game_UMG/BP_Rela.PackageMetaData'
+[2017.12.16-03.27.30:981][645]LogMetaData: Removing '/Game/Game_UMG/BP_real_World.BP_real_World:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Game_UMG/BP_Rela.PackageMetaData'
+[2017.12.16-03.27.30:981][645]LogMetaData: Removing '/Game/Game_UMG/BP_real_World.BP_real_World:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Game_UMG/BP_Rela.PackageMetaData'
+[2017.12.16-03.27.31:004][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_real_World" FILE="E:/UE/Life/Content/Game_UMG/BP_real_World.uasset" SILENT=true
+[2017.12.16-03.27.31:025][645]LogSavePackage: Save=16.05ms
+[2017.12.16-03.27.31:025][645]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_real_World3CDEAF6E4EE9FB4FF3109DB15DF5624F.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_real_World.uasset'
+[2017.12.16-03.27.31:027][645]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_real_World.uasset
+[2017.12.16-03.27.37:257][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_real_World" FILE="E:/UE/Life/Content/Game_UMG/BP_real_World.uasset" SILENT=true
+[2017.12.16-03.27.37:279][  7]LogSavePackage: Save=13.44ms
+[2017.12.16-03.27.37:279][  7]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_real_WorldB93C81634DC8AEFA2241ADAC7305751C.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_real_World.uasset'
+[2017.12.16-03.27.37:280][  7]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_real_World.uasset
+[2017.12.16-03.27.43:013][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.16-03.27.43:045][265]LogSavePackage: Save=9.14ms
+[2017.12.16-03.27.43:045][265]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_ScenesCFDCC42D465C08A003F0428A6080DEF9.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap'
+[2017.12.16-03.27.43:046][265]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap
+[2017.12.16-03.27.43:067][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes_BuiltData" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset" SILENT=true
+[2017.12.16-03.27.43:082][265]LogSavePackage: Save=12.58ms
+[2017.12.16-03.27.43:082][265]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_Scenes_BuiltData3CA6579F4DD1E8C41C76DAB91CB08FF1.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset'
+[2017.12.16-03.27.43:083][265]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset
+[2017.12.16-03.27.43:877][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.16-03.27.43:912][312]LogSavePackage: Save=9.56ms
+[2017.12.16-03.27.43:912][312]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_Scenes59186AE74B25D5227AF46B800E3C86B5.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap'
+[2017.12.16-03.27.43:913][312]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap
+[2017.12.16-03.27.43:937][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes_BuiltData" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset" SILENT=true
+[2017.12.16-03.27.43:953][312]LogSavePackage: Save=13.96ms
+[2017.12.16-03.27.43:953][312]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_Scenes_BuiltDataD3076AAF4ABD9A0341E9EDBB3400F198.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset'
+[2017.12.16-03.27.43:954][312]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset
+[2017.12.16-03.27.57:655][998]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2017.12.16-03.28.11:580][712]BlueprintLog: New page: Compile Shangda_Wu_Player_Controller
+[2017.12.16-03.28.15:954][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_GameMode" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset" SILENT=true
+[2017.12.16-03.28.15:979][885]LogSavePackage: Save=22.51ms
+[2017.12.16-03.28.15:979][885]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_GameMode2E81D3EB485902F013B0EAB33FEE9975.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset'
+[2017.12.16-03.28.15:980][885]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset
+[2017.12.16-03.28.22:742][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.16-03.28.22:813][255]PIE: New page: PIE session: Game_Scenes (Dec 16, 2017, 7:28:22 PM)
+[2017.12.16-03.28.22:813][255]LogPlayLevel: Creating play world package: /Game/Game_Scenes/UEDPIE_0_Game_Scenes
+[2017.12.16-03.28.22:903][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.088826s)
+[2017.12.16-03.28.22:903][255]LogAIModule: Creating AISystem for world Game_Scenes
+[2017.12.16-03.28.22:918][255]LogPlayLevel: PIE: World Init took: (0.015844s)
+[2017.12.16-03.28.22:932][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game_Scenes/Game_Scenes.Game_Scenes to /Game/Game_Scenes/UEDPIE_0_Game_Scenes.Game_Scenes (0.118604s)
+[2017.12.16-03.28.22:989][255]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.16-03.28.23:020][255]LogInit: FAudioDevice initialized.
+[2017.12.16-03.28.23:173][255]LogLoad: Game class is 'Shangda_Wu_GameMode_C'
+[2017.12.16-03.28.23:185][255]LogWorld: Bringing World /Game/Game_Scenes/UEDPIE_0_Game_Scenes.Game_Scenes up for play (max tick rate 60) at 2017.12.16-11.28.23
+[2017.12.16-03.28.23:198][255]LogWorld: Bringing up level for play took: 0.014006
+[2017.12.16-03.28.23:451][255]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2017.12.16-03.28.23:574][255]LogBlueprintUserMessages: [Shangda_Wu_GameMode_C_0] 创建玩家属性数据表
+[2017.12.16-03.28.23:586][255]PIE: Play in editor start time for /Game/Game_Scenes/UEDPIE_0_Game_Scenes 1.47
+[2017.12.16-03.28.23:821][255]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2017.12.16-03.29.34:428][978]LogLinker: Can't find file '/Game/GameData/Data_SaveGame_Player_Items'
+[2017.12.16-03.29.34:428][978]LogLinker: Can't find file '/Game/GameData/Data_SaveGame_Player_Items'
+[2017.12.16-03.29.34:428][978]Unable to find object
+[2017.12.16-03.29.34:428][978]Unable to find object
+[2017.12.16-03.29.34:428][978]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/GameData/Data_SaveGame_Player_Profession.Data_SaveGame_Player_Profession_C"''
+[2017.12.16-03.31.41:405][492]BlueprintLog: New page: Compile Shangda_Wu_GameMode
+[2017.12.16-03.32.19:661][298]LogSlate: Took 0.000375 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.16-03.32.27:306][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_GameMode" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset" SILENT=true
+[2017.12.16-03.32.27:353][746]LogSavePackage: Save=35.46ms
+[2017.12.16-03.32.27:354][746]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_GameMode40DBAA4C47C5D536AED509813A91B89D.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset'
+[2017.12.16-03.32.27:358][746]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset
+[2017.12.16-03.32.27:870][776]BlueprintLog: New page: Compile Shangda_Wu_GameMode
+[2017.12.16-03.32.28:532][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_GameMode" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset" SILENT=true
+[2017.12.16-03.32.28:565][800]LogSavePackage: Save=31.41ms
+[2017.12.16-03.32.28:565][800]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_GameMode56DE31784E7B136FD901B8BA2D2B29FE.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset'
+[2017.12.16-03.32.28:565][800]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset
+[2017.12.16-03.32.29:916][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_GameMode" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset" SILENT=true
+[2017.12.16-03.32.29:947][878]LogSavePackage: Save=29.39ms
+[2017.12.16-03.32.29:947][878]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_GameModeC046F3A34989E70D5BE6BF8689CEFDDC.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset'
+[2017.12.16-03.32.29:948][878]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset
+[2017.12.16-03.32.33:681][ 98]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.16-03.32.33:704][ 98]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.16-03.32.33:705][ 98]PIE: New page: PIE session: Game_Scenes (Dec 16, 2017, 7:32:33 PM)
+[2017.12.16-03.32.33:705][ 98]LogPlayLevel: Creating play world package: /Game/Game_Scenes/UEDPIE_0_Game_Scenes
+[2017.12.16-03.32.33:706][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000737s)
+[2017.12.16-03.32.33:706][ 98]LogAIModule: Creating AISystem for world Game_Scenes
+[2017.12.16-03.32.33:706][ 98]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2017.12.16-03.32.33:706][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game_Scenes/Game_Scenes.Game_Scenes to /Game/Game_Scenes/UEDPIE_0_Game_Scenes.Game_Scenes (0.001637s)
+[2017.12.16-03.32.33:732][ 98]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.16-03.32.33:757][ 98]LogInit: FAudioDevice initialized.
+[2017.12.16-03.32.33:802][ 98]LogLoad: Game class is 'Shangda_Wu_GameMode_C'
+[2017.12.16-03.32.33:805][ 98]LogWorld: Bringing World /Game/Game_Scenes/UEDPIE_0_Game_Scenes.Game_Scenes up for play (max tick rate 60) at 2017.12.16-11.32.33
+[2017.12.16-03.32.33:805][ 98]LogWorld: Bringing up level for play took: 0.001189
+[2017.12.16-03.32.33:860][ 98]PIE: Play in editor start time for /Game/Game_Scenes/UEDPIE_0_Game_Scenes -0.255
+[2017.12.16-03.32.50:033][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_GameMode" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset" SILENT=true
+[2017.12.16-03.32.50:068][999]LogSavePackage: Save=33.22ms
+[2017.12.16-03.32.50:068][999]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_GameMode0AE0253C4E587F3623D7658D6EEF7293.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset'
+[2017.12.16-03.32.50:069][999]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset
+[2017.12.16-03.32.57:334][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_GameMode" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset" SILENT=true
+[2017.12.16-03.32.57:366][428]LogSavePackage: Save=30.14ms
+[2017.12.16-03.32.57:366][428]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_GameMode71469D334BFF7B47A1900990D0747C1A.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset'
+[2017.12.16-03.32.57:366][428]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset
+[2017.12.16-03.33.20:912][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_GameMode" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset" SILENT=true
+[2017.12.16-03.33.20:953][814]LogSavePackage: Save=35.03ms
+[2017.12.16-03.33.20:953][814]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_GameModeEE3B363B4452F50AAE29E2BA8A027456.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset'
+[2017.12.16-03.33.20:954][814]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset
+[2017.12.16-03.33.31:735][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_GameMode" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset" SILENT=true
+[2017.12.16-03.33.31:777][451]LogSavePackage: Save=38.83ms
+[2017.12.16-03.33.31:777][451]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_GameMode0307333C4B1BEAB98C394188155683B0.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset'
+[2017.12.16-03.33.31:779][451]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset
+[2017.12.16-03.33.32:422][489]BlueprintLog: New page: Compile Shangda_Wu_GameMode
+[2017.12.16-03.33.33:037][512]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.16-03.33.33:066][512]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.16-03.33.33:066][512]PIE: New page: PIE session: Game_Scenes (Dec 16, 2017, 7:33:33 PM)
+[2017.12.16-03.33.33:066][512]LogPlayLevel: Creating play world package: /Game/Game_Scenes/UEDPIE_0_Game_Scenes
+[2017.12.16-03.33.33:067][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000677s)
+[2017.12.16-03.33.33:067][512]LogAIModule: Creating AISystem for world Game_Scenes
+[2017.12.16-03.33.33:067][512]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2017.12.16-03.33.33:067][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game_Scenes/Game_Scenes.Game_Scenes to /Game/Game_Scenes/UEDPIE_0_Game_Scenes.Game_Scenes (0.001579s)
+[2017.12.16-03.33.33:093][512]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.16-03.33.33:111][512]LogInit: FAudioDevice initialized.
+[2017.12.16-03.33.33:169][512]LogLoad: Game class is 'Shangda_Wu_GameMode_C'
+[2017.12.16-03.33.33:170][512]LogWorld: Bringing World /Game/Game_Scenes/UEDPIE_0_Game_Scenes.Game_Scenes up for play (max tick rate 60) at 2017.12.16-11.33.33
+[2017.12.16-03.33.33:171][512]LogWorld: Bringing up level for play took: 0.000473
+[2017.12.16-03.33.33:172][512]LogBlueprintUserMessages: [Shangda_Wu_GameMode_C_0] 读取玩家数据表
+[2017.12.16-03.33.33:179][512]PIE: Play in editor start time for /Game/Game_Scenes/UEDPIE_0_Game_Scenes 1.063
+[2017.12.16-03.33.36:147][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_GameMode" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset" SILENT=true
+[2017.12.16-03.33.36:185][669]LogSavePackage: Save=34.71ms
+[2017.12.16-03.33.36:185][669]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_GameMode0FE7877D473FEF6BB2900CBE7A6F687A.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset'
+[2017.12.16-03.33.36:185][669]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset
+[2017.12.16-03.34.34:036][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_GameMode" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset" SILENT=true
+[2017.12.16-03.34.34:073][ 65]LogSavePackage: Save=34.75ms
+[2017.12.16-03.34.34:073][ 65]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_GameMode00BBBE8A42EF556A7145308D6293562D.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset'
+[2017.12.16-03.34.34:073][ 65]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset
+[2017.12.16-03.35.17:336][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_GameMode" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset" SILENT=true
+[2017.12.16-03.35.17:369][654]LogSavePackage: Save=31.23ms
+[2017.12.16-03.35.17:369][654]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_GameModeEBD28052419BA5AC6AD2DFBFAF43036B.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset'
+[2017.12.16-03.35.17:370][654]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_GameMode.uasset
+[2017.12.16-03.36.42:844][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_real_World" FILE="E:/UE/Life/Content/Game_UMG/BP_real_World.uasset" SILENT=true
+[2017.12.16-03.36.42:913][250]LogSavePackage: Save=60.93ms
+[2017.12.16-03.36.42:913][250]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_real_World17076B24477CFB64D1EA8480E8A7B961.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_real_World.uasset'
+[2017.12.16-03.36.42:914][250]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_real_World.uasset
+[2017.12.16-03.36.44:201][316]BlueprintLog: New page: Compile BP_Real_World
+[2017.12.16-03.36.57:494][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_real_World" FILE="E:/UE/Life/Content/Game_UMG/BP_real_World.uasset" SILENT=true
+[2017.12.16-03.36.57:506][ 28]LogSavePackage: Save=10.17ms
+[2017.12.16-03.36.57:506][ 28]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_real_WorldFB3FD6B74A95C1590534B0A7FCB8BB63.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_real_World.uasset'
+[2017.12.16-03.36.57:507][ 28]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_real_World.uasset
+[2017.12.16-03.36.58:783][ 94]BlueprintLog: New page: Compile BP_Real_World
+[2017.12.16-03.37.00:635][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_real_World" FILE="E:/UE/Life/Content/Game_UMG/BP_real_World.uasset" SILENT=true
+[2017.12.16-03.37.00:648][181]LogSavePackage: Save=11.67ms
+[2017.12.16-03.37.00:648][181]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_real_World7EC15DC94E60C8E0FFA2A7A98B821644.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_real_World.uasset'
+[2017.12.16-03.37.00:649][181]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_real_World.uasset
+[2017.12.16-03.37.13:070][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_real_World" FILE="E:/UE/Life/Content/Game_UMG/BP_real_World.uasset" SILENT=true
+[2017.12.16-03.37.13:083][702]LogSavePackage: Save=12.02ms
+[2017.12.16-03.37.13:083][702]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_real_WorldB647A7604EA9250D9064048E398D5608.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_real_World.uasset'
+[2017.12.16-03.37.13:085][702]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_real_World.uasset
+[2017.12.16-03.37.14:090][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_real_World" FILE="E:/UE/Life/Content/Game_UMG/BP_real_World.uasset" SILENT=true
+[2017.12.16-03.37.14:104][750]LogSavePackage: Save=10.34ms
+[2017.12.16-03.37.14:104][750]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_real_World9C7D60864F3B5F1CFE3205A3A0E0B5B8.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_real_World.uasset'
+[2017.12.16-03.37.14:104][750]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_real_World.uasset
+[2017.12.16-03.37.15:181][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_real_World" FILE="E:/UE/Life/Content/Game_UMG/BP_real_World.uasset" SILENT=true
+[2017.12.16-03.37.15:195][802]LogSavePackage: Save=12.23ms
+[2017.12.16-03.37.15:195][802]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_real_WorldE9A5006842AD5BFA96B78B9EF0223185.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_real_World.uasset'
+[2017.12.16-03.37.15:195][802]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_real_World.uasset
+[2017.12.16-03.37.54:252][746]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Game_Scenes/Game_Scenes' took 0.026
+[2017.12.16-03.37.54:254][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game_Mode/Shangda_Wu_Player_Controller] ([1] browsable assets)...
+[2017.12.16-03.37.54:254][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game_Mode/Shangda_Wu_Player_Controller]
+[2017.12.16-03.37.54:254][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_Player_Controller" FILE="E:/UE/Life/Saved/Autosaves/Game/Game_Mode/Shangda_Wu_Player_Controller_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.12.16-03.37.54:272][746]LogSavePackage: Save=10.57ms
+[2017.12.16-03.37.54:273][746]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_Player_Controller_AutD02FAFD746FBB7963D8B1B801F8A61F5.tmp' to 'E:/UE/Life/Saved/Autosaves/Game/Game_Mode/Shangda_Wu_Player_Controller_Auto2.uasset'
+[2017.12.16-03.37.54:273][746]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Saved/Autosaves/Game/Game_Mode/Shangda_Wu_Player_Controller_Auto2.uasset
+[2017.12.16-03.37.54:273][746]LogFileHelpers: Auto-saving content packages took 0.020
+[2017.12.16-03.38.52:523][654]BlueprintLog: New page: Compile BP_Real_World
+[2017.12.16-08.34.52:456][604]LogHttp: Warning: 00000115209C1900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.12.16-08.34.52:457][604]LogHttp: Warning: 00000115209C1900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x114abd37fb8 [can pipeline])
+[2017.12.16-08.34.52:457][604]LogHttp: Warning: 00000115209C1900: libcurl info message cache 1 (Re-using existing connection! (#75) with host datarouter.ol.epicgames.com)
+[2017.12.16-08.34.52:457][604]LogHttp: Warning: 00000115209C1900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.234.242.30) port 443 (#75))
+[2017.12.16-08.34.52:457][604]LogHttp: Warning: 00000115209C1900: libcurl info message cache 3 (upload completely sent off: 767 out of 767 bytes)
+[2017.12.16-08.34.52:457][604]LogHttp: Warning: 00000115209C1900: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2017.12.16-08.34.52:457][604]LogHttp: Warning: 00000115209C1900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2017.12.16-08.34.52:457][604]LogHttp: Warning: 00000115209C1900: libcurl info message cache 6 (Closing connection 75)
+[2017.12.16-08.34.52:457][604]LogHttp: Warning: 00000115209C1900: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2017.12.16-08.34.52:457][604]LogHttp: Warning: 00000115209C1900: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B65243A94-40EC-2894-E8E2-2C93F6D6FF58%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=81c28c7e4510db99c1cc39b6d8b61089%7Cdfb84846bd18458ea4123b3e7e2ad85b%7C4f22a1ce-a3e3-4795-805e-303ad6fdc865&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2017.12.16-08.34.52:457][604]LogHttp: Warning: 00000115209C1900: libcurl info message cache 9 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.12.16-08.34.52:457][604]LogHttp: Warning: 00000115209C1900: libcurl info message cache 10 (Closing connection 76)
+[2017.12.16-08.36.53:108][966]LogHttp: Warning: 00000115209C3E80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.12.16-08.36.53:108][966]LogHttp: Warning: 00000115209C3E80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.12.16-08.36.53:108][966]LogHttp: Warning: 00000115209C3E80: libcurl info message cache 1 (Closing connection 77)
+[2017.12.16-08.39.04:441][360]LogHttp: Warning: 00000115209C1D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.12.16-08.39.04:441][360]LogHttp: Warning: 00000115209C1D80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.12.16-08.39.04:441][360]LogHttp: Warning: 00000115209C1D80: libcurl info message cache 1 (Closing connection 78)
+[2017.12.16-10.05.23:827][898]LogHttp: Warning: 00000115209C2980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.12.16-10.05.23:853][898]LogHttp: Warning: 00000115209C2980: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x114abd37fe8 [can pipeline])
+[2017.12.16-10.05.23:853][898]LogHttp: Warning: 00000115209C2980: libcurl info message cache 1 (Re-using existing connection! (#98) with host datarouter.ol.epicgames.com)
+[2017.12.16-10.05.23:853][898]LogHttp: Warning: 00000115209C2980: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.235.90.8) port 443 (#98))
+[2017.12.16-10.05.23:854][898]LogHttp: Warning: 00000115209C2980: libcurl info message cache 3 (upload completely sent off: 390 out of 390 bytes)
+[2017.12.16-10.05.23:854][898]LogHttp: Warning: 00000115209C2980: libcurl info message cache 4 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2017.12.16-10.05.23:854][898]LogHttp: Warning: 00000115209C2980: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2017.12.16-10.05.23:854][898]LogHttp: Warning: 00000115209C2980: libcurl info message cache 6 (Closing connection 98)
+[2017.12.16-10.05.23:854][898]LogHttp: Warning: 00000115209C2980: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B65243A94-40EC-2894-E8E2-2C93F6D6FF58%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=81c28c7e4510db99c1cc39b6d8b61089%7Cdfb84846bd18458ea4123b3e7e2ad85b%7C4f22a1ce-a3e3-4795-805e-303ad6fdc865&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2017.12.16-10.05.23:854][898]LogHttp: Warning: 00000115209C2980: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.12.16-10.05.23:854][898]LogHttp: Warning: 00000115209C2980: libcurl info message cache 9 (Closing connection 99)
+[2017.12.16-10.07.24:463][260]LogHttp: Warning: 00000115209C3100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.12.16-10.07.24:463][260]LogHttp: Warning: 00000115209C3100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.12.16-10.07.24:463][260]LogHttp: Warning: 00000115209C3100: libcurl info message cache 1 (Closing connection 100)
+[2017.12.16-10.09.24:797][621]LogHttp: Warning: 00000115209C1480: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.12.16-10.09.24:797][621]LogHttp: Warning: 00000115209C1480: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.12.16-10.09.24:797][621]LogHttp: Warning: 00000115209C1480: libcurl info message cache 1 (Closing connection 101)
+[2017.12.16-10.11.36:329][132]LogHttp: Warning: 00000115209C3280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.12.16-10.11.36:329][132]LogHttp: Warning: 00000115209C3280: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.12.16-10.11.36:329][132]LogHttp: Warning: 00000115209C3280: libcurl info message cache 1 (Closing connection 102)
+[2017.12.16-10.13.36:663][493]LogHttp: Warning: 00000115209C3280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.12.16-10.13.36:663][493]LogHttp: Warning: 00000115209C3280: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.12.16-10.13.36:663][493]LogHttp: Warning: 00000115209C3280: libcurl info message cache 1 (Closing connection 103)
+[2017.12.16-10.15.47:999][887]LogHttp: Warning: 00000115209C3280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.12.16-10.15.47:999][887]LogHttp: Warning: 00000115209C3280: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.12.16-10.15.47:999][887]LogHttp: Warning: 00000115209C3280: libcurl info message cache 1 (Closing connection 104)
+[2017.12.16-10.17.59:665][282]LogHttp: Warning: 00000115209C3A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.12.16-10.17.59:665][282]LogHttp: Warning: 00000115209C3A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.12.16-10.17.59:665][282]LogHttp: Warning: 00000115209C3A00: libcurl info message cache 1 (Closing connection 105)
+[2017.12.16-10.22.20:088][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-10.22.20:338][ 52]LogSavePackage: Save=202.85ms
+[2017.12.16-10.22.20:338][ 52]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock507C80624B53F6A352C43F86117A90F9.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-10.22.20:397][ 52]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-10.22.46:522][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-10.22.46:615][181]LogSavePackage: Save=19.71ms
+[2017.12.16-10.22.46:615][181]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock6B58CB2E49DA3B163F744CBF9D349A55.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-10.22.46:616][181]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-10.22.47:553][233]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-10.23.43:012][296]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.16-10.23.47:840][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_Player_Controller" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_Controller.uasset" SILENT=true
+[2017.12.16-10.23.47:910][579]LogSavePackage: Save=62.77ms
+[2017.12.16-10.23.47:910][579]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_Player_ControllerAF6ECEC94E8DE8E186C9C3BAF105C9DD.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_Controller.uasset'
+[2017.12.16-10.23.47:919][579]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_Controller.uasset
+[2017.12.16-10.24.03:608][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_Player_Controller" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_Controller.uasset" SILENT=true
+[2017.12.16-10.24.03:677][508]LogSavePackage: Save=20.80ms
+[2017.12.16-10.24.03:677][508]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_Player_Controller5EED3404419C93697CFC07A15F67380D.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_Controller.uasset'
+[2017.12.16-10.24.03:678][508]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_Controller.uasset
+[2017.12.16-10.24.09:015][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_Player_Controller" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_Controller.uasset" SILENT=true
+[2017.12.16-10.24.09:101][790]LogSavePackage: Save=84.38ms
+[2017.12.16-10.24.09:101][790]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_Player_ControllerDA19FDF24C445728E8D7BFBA40F9B4E4.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_Controller.uasset'
+[2017.12.16-10.24.09:104][790]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_Controller.uasset
+[2017.12.16-10.24.09:762][829]BlueprintLog: New page: Compile Shangda_Wu_Player_Controller
+[2017.12.16-10.24.59:777][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_Player_Controller" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_Controller.uasset" SILENT=true
+[2017.12.16-10.24.59:803][589]LogSavePackage: Save=24.38ms
+[2017.12.16-10.24.59:803][589]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_Player_ControllerDDC38E4944088E12965BE8834B18BD40.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_Controller.uasset'
+[2017.12.16-10.24.59:806][589]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_Controller.uasset
+[2017.12.16-10.25.06:063][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_Player_Controller" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_Controller.uasset" SILENT=true
+[2017.12.16-10.25.06:088][754]LogSavePackage: Save=24.00ms
+[2017.12.16-10.25.06:088][754]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_Player_ControllerE7BD60054893062AA2193D86DE7389FD.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_Controller.uasset'
+[2017.12.16-10.25.06:089][754]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_Controller.uasset
+[2017.12.16-10.25.23:524][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_Player_Controller" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_Controller.uasset" SILENT=true
+[2017.12.16-10.25.23:550][785]LogSavePackage: Save=24.31ms
+[2017.12.16-10.25.23:550][785]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_Player_ControllerF5C1E9B449519472F757CC97CE355697.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_Controller.uasset'
+[2017.12.16-10.25.23:552][785]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_Controller.uasset
+[2017.12.16-10.25.24:484][841]BlueprintLog: New page: Compile Shangda_Wu_Player_Controller
+[2017.12.16-10.40.41:139][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_Player_Controller" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_Controller.uasset" SILENT=true
+[2017.12.16-10.40.41:171][897]LogSavePackage: Save=22.14ms
+[2017.12.16-10.40.41:171][897]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_Player_Controller112B7C334724F2981C74D08401AF1E34.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_Controller.uasset'
+[2017.12.16-10.40.41:172][897]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_Controller.uasset
+[2017.12.16-10.41.43:564][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-10.41.43:628][464]LogSavePackage: Save=56.58ms
+[2017.12.16-10.41.43:628][464]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockB81E5D504032FD594A7E22915C934546.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-10.41.43:629][464]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-10.41.44:426][509]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-10.42.35:085][696]LogEditorTransaction: Undo Add Widget
+[2017.12.16-10.42.43:987][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-10.42.44:005][126]LogSavePackage: Save=15.82ms
+[2017.12.16-10.42.44:005][126]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock0C9FD6FD4D7F460A6AC3019902CF3CE0.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-10.42.44:008][126]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-10.45.03:723][809]LogEditorTransaction: Undo Add Widget
+[2017.12.16-10.46.55:479][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-10.46.55:554][860]LogSavePackage: Save=68.71ms
+[2017.12.16-10.46.55:555][860]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockC97106E34C3B5E0DD0CB738B057E5F5E.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-10.46.55:556][860]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-10.47.22:082][395]LogEditorTransaction: Undo Move Widget
+[2017.12.16-10.48.00:999][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-10.48.01:029][532]LogSavePackage: Save=28.21ms
+[2017.12.16-10.48.01:029][532]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockF61B6493440B7A44E6790382E4311ADC.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-10.48.01:031][532]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-10.48.20:958][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-10.48.20:989][645]LogSavePackage: Save=28.51ms
+[2017.12.16-10.48.20:989][645]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock70693F82404C230028C6099477C54F7F.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-10.48.20:991][645]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-10.48.34:002][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-10.48.34:032][307]LogSavePackage: Save=28.60ms
+[2017.12.16-10.48.34:032][307]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock4ECB0A794B4B2C7958BCC78C841ADBE3.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-10.48.34:033][307]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-10.48.57:486][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-10.48.57:517][543]LogSavePackage: Save=27.74ms
+[2017.12.16-10.48.57:518][543]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock1BF80FD943C9D87191C66189D1B3BADD.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-10.48.57:519][543]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-10.49.29:543][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-10.49.29:574][301]LogSavePackage: Save=29.01ms
+[2017.12.16-10.49.29:574][301]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockB169B3EC4A160FC5A400C6A599FF09F8.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-10.49.29:576][301]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-10.51.09:775][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-10.51.09:806][236]LogSavePackage: Save=27.76ms
+[2017.12.16-10.51.09:806][236]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock84383EDB43C4C87CC66CB6A61D414BE6.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-10.51.09:807][236]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-10.51.52:836][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-10.51.52:870][687]LogSavePackage: Save=31.37ms
+[2017.12.16-10.51.52:870][687]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock2C15887849AF5E43A983D090CD409752.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-10.51.52:871][687]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-10.52.25:131][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-10.52.25:229][597]LogSavePackage: Save=92.10ms
+[2017.12.16-10.52.25:229][597]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock07A0B58F402768920F3F348C8EA50D02.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-10.52.25:231][597]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-10.52.29:089][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-10.52.29:122][812]LogSavePackage: Save=30.94ms
+[2017.12.16-10.52.29:122][812]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock0F3889AB46B41084657C03962EE3FF17.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-10.52.29:122][812]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-10.53.36:117][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-10.53.36:149][442]LogSavePackage: Save=30.20ms
+[2017.12.16-10.53.36:149][442]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock476098B44AD4F945BB8343BEA1454677.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-10.53.36:151][442]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-10.53.37:185][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-10.53.37:216][498]LogSavePackage: Save=29.55ms
+[2017.12.16-10.53.37:216][498]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock6E98833B42851DD2ECAC9880E1BC0E99.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-10.53.37:217][498]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-10.53.53:092][133]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-10.53.55:139][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-10.53.55:170][249]LogSavePackage: Save=29.59ms
+[2017.12.16-10.53.55:170][249]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockD89975944626233262FBBAB0AB71304B.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-10.53.55:171][249]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-10.54.10:167][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Mode/Shangda_Wu_Player_Controller" FILE="E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_Controller.uasset" SILENT=true
+[2017.12.16-10.54.10:207][120]LogSavePackage: Save=30.27ms
+[2017.12.16-10.54.10:207][120]LogSavePackage: Moving 'E:/UE/Life/Saved/Shangda_Wu_Player_ControllerEE54132C4FA39F84A13E708AA4D867CB.tmp' to 'E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_Controller.uasset'
+[2017.12.16-10.54.10:209][120]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Mode/Shangda_Wu_Player_Controller.uasset
+[2017.12.16-10.54.11:594][203]BlueprintLog: New page: Compile Shangda_Wu_Player_Controller
+[2017.12.16-10.54.28:732][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_real_World" FILE="E:/UE/Life/Content/Game_UMG/BP_real_World.uasset" SILENT=true
+[2017.12.16-10.54.28:754][101]LogSavePackage: Save=13.80ms
+[2017.12.16-10.54.28:755][101]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_real_World2654B567428ED6FFCD928F8FEABB11ED.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_real_World.uasset'
+[2017.12.16-10.54.28:757][101]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_real_World.uasset
+[2017.12.16-10.54.31:650][251]BlueprintLog: New page: Compile BP_Real_World
+[2017.12.16-10.55.45:117][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-10.55.45:147][443]LogSavePackage: Save=27.48ms
+[2017.12.16-10.55.45:147][443]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock14D78BC3421DBF8E0B39B197DAAA0135.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-10.55.45:150][443]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-10.55.47:726][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-10.55.47:756][568]LogSavePackage: Save=26.76ms
+[2017.12.16-10.55.47:756][568]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockA1D28DB448928515669836B181EE7CFC.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-10.55.47:756][568]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-10.58.32:241][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-10.58.32:324][871]LogSavePackage: Save=72.66ms
+[2017.12.16-10.58.32:324][871]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockD257995A405A2E847A0876A049B0923E.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-10.58.32:325][871]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-10.58.48:979][853]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-10.59.56:117][648]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-11.00.08:052][268]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-11.00.49:318][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.00.49:360][367]LogSavePackage: Save=39.83ms
+[2017.12.16-11.00.49:360][367]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockF7074FB4493D9FCB93A845901380944C.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.00.49:362][367]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.00.50:111][411]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-11.00.59:839][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.00.59:884][890]LogSavePackage: Save=43.43ms
+[2017.12.16-11.00.59:884][890]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock6157B0F140D161E50CD2B4BDB0B29F3F.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.00.59:886][890]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.01.00:831][939]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-11.01.02:070][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.01.02:115][989]LogSavePackage: Save=42.58ms
+[2017.12.16-11.01.02:115][989]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock1187F7BC47BFCF58B735BE986C5547A2.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.01.02:115][989]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.01.08:658][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.01.08:697][331]LogSavePackage: Save=37.08ms
+[2017.12.16-11.01.08:698][331]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock62D027004885EBDD96F5A9822F62C9F7.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.01.08:698][331]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.01.34:172][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.01.34:213][447]LogSavePackage: Save=39.02ms
+[2017.12.16-11.01.34:213][447]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock402F3C874F146FC242323C8419B0FCDD.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.01.34:215][447]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.01.49:644][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.01.49:685][187]LogSavePackage: Save=39.29ms
+[2017.12.16-11.01.49:685][187]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockD39E87F24BC2DD965285918C6F07AB04.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.01.49:687][187]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.01.51:199][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.01.51:240][267]LogSavePackage: Save=39.51ms
+[2017.12.16-11.01.51:240][267]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock65E98958425E0B45B226468F524D0AE9.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.01.51:241][267]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.02.28:817][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.02.28:862][270]LogSavePackage: Save=41.46ms
+[2017.12.16-11.02.28:862][270]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock97C3FFBB46826807FDE14C949E5B5E4A.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.02.28:863][270]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.03.05:653][454]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Game_Scenes/Game_Scenes' took 0.024
+[2017.12.16-11.03.05:658][454]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game_UMG/BP_real_World] ([1] browsable assets)...
+[2017.12.16-11.03.05:658][454]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game_UMG/BP_real_World]
+[2017.12.16-11.03.05:658][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_real_World" FILE="E:/UE/Life/Saved/Autosaves/Game/Game_UMG/BP_real_World_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2017.12.16-11.03.05:679][454]LogSavePackage: Save=13.00ms
+[2017.12.16-11.03.05:679][454]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_real_World_Auto3D3B707134A35F0C6DA8B999C25270FD9.tmp' to 'E:/UE/Life/Saved/Autosaves/Game/Game_UMG/BP_real_World_Auto3.uasset'
+[2017.12.16-11.03.05:680][454]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Saved/Autosaves/Game/Game_UMG/BP_real_World_Auto3.uasset
+[2017.12.16-11.03.05:680][454]LogFileHelpers: Auto-saving content packages took 0.026
+[2017.12.16-11.03.10:139][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.03.10:178][719]LogSavePackage: Save=36.39ms
+[2017.12.16-11.03.10:178][719]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockA83078CD48922E33438D92B49E769AE3.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.03.10:178][719]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.03.50:633][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.16-11.03.50:708][855]LogSavePackage: Save=11.43ms
+[2017.12.16-11.03.50:708][855]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_Scenes95A5AF5341CE0589B08FEFB7D47D2754.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap'
+[2017.12.16-11.03.50:726][855]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap
+[2017.12.16-11.03.50:845][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes_BuiltData" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset" SILENT=true
+[2017.12.16-11.03.50:896][855]LogSavePackage: Save=44.70ms
+[2017.12.16-11.03.50:896][855]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_Scenes_BuiltData90E65C6F4671387BCBB4FBA094F6C39E.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset'
+[2017.12.16-11.03.50:917][855]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset
+[2017.12.16-11.03.51:403][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.03.51:446][881]LogSavePackage: Save=35.65ms
+[2017.12.16-11.03.51:446][881]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockBF3324904AA9F917D0CD169A5FB64712.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.03.51:447][881]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.03.54:235][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.03.54:277][ 45]LogSavePackage: Save=40.29ms
+[2017.12.16-11.03.54:277][ 45]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockA447405F4F3CFF748BF76288FD590CC9.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.03.54:278][ 45]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.03.54:282][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_real_World" FILE="E:/UE/Life/Content/Game_UMG/BP_real_World.uasset" SILENT=true
+[2017.12.16-11.03.54:297][ 45]LogSavePackage: Save=12.00ms
+[2017.12.16-11.03.54:297][ 45]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_real_World7811054847ABC146C326FDBF88B58ECC.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_real_World.uasset'
+[2017.12.16-11.03.54:299][ 45]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_real_World.uasset
+[2017.12.16-11.04.24:150][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.04.24:191][612]LogSavePackage: Save=36.58ms
+[2017.12.16-11.04.24:191][612]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock37AF074A414F9FBEA1FB3E84D3E058F6.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.04.24:192][612]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.04.28:728][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.04.28:770][845]LogSavePackage: Save=39.67ms
+[2017.12.16-11.04.28:770][845]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock07C700C64EC8A8CD246F859553CF6776.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.04.28:771][845]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.05.04:258][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.05.04:298][806]LogSavePackage: Save=38.07ms
+[2017.12.16-11.05.04:298][806]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock958531484CF81B2B884A3B8BEE997FE5.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.05.04:301][806]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.05.22:509][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.05.22:549][740]LogSavePackage: Save=36.68ms
+[2017.12.16-11.05.22:549][740]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockB137BCDC43776CCD87475F8492ED1985.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.05.22:550][740]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.05.24:822][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.05.24:863][854]LogSavePackage: Save=38.41ms
+[2017.12.16-11.05.24:863][854]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockF409497D45A22264A22F77A9D76F6621.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.05.24:864][854]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.05.36:861][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.05.36:902][511]LogSavePackage: Save=38.36ms
+[2017.12.16-11.05.36:902][511]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock297C39284FEEEC2EF52905ABB9D65B2D.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.05.36:903][511]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.06.33:599][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.06.33:638][509]LogSavePackage: Save=36.97ms
+[2017.12.16-11.06.33:638][509]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock5A206AE74EA065FC36A399A1F59A59E4.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.06.33:639][509]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.07.04:444][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.07.04:484][246]LogSavePackage: Save=37.07ms
+[2017.12.16-11.07.04:484][246]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockD6C325544EB1F2E28531509569E49808.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.07.04:486][246]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.07.07:500][425]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-11.07.54:385][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.07.54:433][365]LogSavePackage: Save=45.62ms
+[2017.12.16-11.07.54:433][365]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockE015CD7C45D25F12CD2723B88B0FF1A6.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.07.54:434][365]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.08.17:957][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.08.17:999][255]LogSavePackage: Save=40.03ms
+[2017.12.16-11.08.17:999][255]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockE5AD02894FF30BD4A93D7781BCA43D85.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.08.18:001][255]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.08.19:327][329]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-11.08.43:781][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.08.43:826][510]LogSavePackage: Save=42.23ms
+[2017.12.16-11.08.43:826][510]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock9ADA98E74AA91DBC3CC0089BFF59AC42.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.08.43:827][510]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.10.04:946][440]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-11.10.06:561][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.10.06:658][523]LogSavePackage: Save=88.81ms
+[2017.12.16-11.10.06:658][523]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock8E7E6AA6484E671555572E9FD421C584.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.10.06:660][523]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.14.12:325][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.14.12:364][ 52]LogSavePackage: Save=37.97ms
+[2017.12.16-11.14.12:365][ 52]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockEF371A094B20F6CED89A94B119F34796.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.14.12:366][ 52]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.14.13:587][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.14.13:626][106]LogSavePackage: Save=36.30ms
+[2017.12.16-11.14.13:626][106]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock1484FCDC4854E985AF5378B0B8B2D76F.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.14.13:626][106]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.14.13:630][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_real_World" FILE="E:/UE/Life/Content/Game_UMG/BP_real_World.uasset" SILENT=true
+[2017.12.16-11.14.13:651][106]LogSavePackage: Save=11.99ms
+[2017.12.16-11.14.13:651][106]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_real_WorldE4DB9B3441D96CB3D838D6A08255E1E0.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_real_World.uasset'
+[2017.12.16-11.14.13:652][106]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_real_World.uasset
+[2017.12.16-11.14.56:488][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.14.56:529][276]LogSavePackage: Save=39.13ms
+[2017.12.16-11.14.56:529][276]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock995EBD72430F52866A913CB29774EF6F.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.14.56:531][276]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.16.17:799][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.16.17:846][139]LogSavePackage: Save=40.68ms
+[2017.12.16-11.16.17:846][139]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock46D1101E435D02F717B94E83F1B28FC6.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.16.17:848][139]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.16.42:364][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.16.42:408][427]LogSavePackage: Save=41.98ms
+[2017.12.16-11.16.42:408][427]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock8EE1E4B746C5D21F37A64F8AF05522EF.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.16.42:410][427]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.16.53:244][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.16.53:287][  1]LogSavePackage: Save=40.64ms
+[2017.12.16-11.16.53:288][  1]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock08515C124E727FE41767B2BD3C275BBE.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.16.53:289][  1]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.17.51:381][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.17.51:428][800]LogSavePackage: Save=45.30ms
+[2017.12.16-11.17.51:428][800]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockFD700B1F431E4A048CF4468EF9B3657C.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.17.51:430][800]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.18.12:267][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.18.12:317][922]LogSavePackage: Save=48.33ms
+[2017.12.16-11.18.12:317][922]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockD2722E2444238B4FC4968B82FAFFAC61.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.18.12:318][922]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.19.12:280][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.19.12:330][564]LogSavePackage: Save=48.09ms
+[2017.12.16-11.19.12:330][564]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock6A2E7258487A460360897AA4EF2391D4.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.19.12:331][564]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.19.24:064][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.19.24:114][158]LogSavePackage: Save=47.27ms
+[2017.12.16-11.19.24:114][158]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockC74BF3D241248BD80427BB9D411010BE.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.19.24:116][158]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.19.49:573][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.19.49:624][108]LogSavePackage: Save=48.89ms
+[2017.12.16-11.19.49:624][108]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockE1841B624D90A16D01474D8BC18A378F.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.19.49:626][108]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.19.50:542][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.19.50:592][148]LogSavePackage: Save=47.22ms
+[2017.12.16-11.19.50:592][148]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock006B254C462F7D1D23E72AB327EE3B64.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.19.50:592][148]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.19.58:352][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.19.58:403][539]LogSavePackage: Save=49.21ms
+[2017.12.16-11.19.58:403][539]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock32A60E634803016087158F9C6CD4ADC7.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.19.58:404][539]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.20.12:954][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.20.13:009][278]LogSavePackage: Save=50.85ms
+[2017.12.16-11.20.13:009][278]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock16851AA441993AA7128FF2811B9150AB.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.20.13:011][278]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.20.43:205][778]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-11.20.44:380][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.20.44:434][828]LogSavePackage: Save=51.88ms
+[2017.12.16-11.20.44:434][828]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockA571A7F04E1308246C81C798A63AF233.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.20.44:434][828]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.21.03:184][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Backpack" FILE="E:/UE/Life/Content/Game_UMG/BP_Backpack.uasset" SILENT=true
+[2017.12.16-11.21.03:196][912]LogSavePackage: Save=10.62ms
+[2017.12.16-11.21.03:196][912]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_BackpackB0B9C22A44A1F9D4B3FB7CBEC618D296.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Backpack.uasset'
+[2017.12.16-11.21.03:198][912]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Backpack.uasset
+[2017.12.16-11.21.35:971][569]LogMetaData: Removing '/Game/Game_UMG/BP_Backpack_Slot.SKEL_BP_Backpack_Slot_C' ref from Metadata '/Game/Game_UMG/BP_Backpack.PackageMetaData'
+[2017.12.16-11.21.35:971][569]LogMetaData: Removing '/Game/Game_UMG/BP_Backpack_Slot.BP_Backpack_Slot_C' ref from Metadata '/Game/Game_UMG/BP_Backpack.PackageMetaData'
+[2017.12.16-11.21.35:971][569]LogMetaData: Removing '/Game/Game_UMG/BP_Backpack_Slot.BP_Backpack_Slot:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Game_UMG/BP_Backpack.PackageMetaData'
+[2017.12.16-11.21.35:971][569]LogMetaData: Removing '/Game/Game_UMG/BP_Backpack_Slot.BP_Backpack_Slot:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Game_UMG/BP_Backpack.PackageMetaData'
+[2017.12.16-11.21.35:971][569]LogMetaData: Removing '/Game/Game_UMG/BP_Backpack_Slot.BP_Backpack_Slot:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Game_UMG/BP_Backpack.PackageMetaData'
+[2017.12.16-11.21.36:066][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Backpack_Slot" FILE="E:/UE/Life/Content/Game_UMG/BP_Backpack_Slot.uasset" SILENT=true
+[2017.12.16-11.21.36:080][569]LogSavePackage: Save=11.59ms
+[2017.12.16-11.21.36:080][569]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Backpack_SlotE94CC47B4443892ED171F2999BB54910.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Backpack_Slot.uasset'
+[2017.12.16-11.21.36:081][569]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Backpack_Slot.uasset
+[2017.12.16-11.21.41:469][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.16-11.21.41:559][878]LogSavePackage: Save=56.52ms
+[2017.12.16-11.21.41:559][878]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_Scenes69FEEA9C4B5E10E745EAB9ACB7C47183.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap'
+[2017.12.16-11.21.41:559][878]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes.umap
+[2017.12.16-11.21.41:607][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Scenes/Game_Scenes_BuiltData" FILE="E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset" SILENT=true
+[2017.12.16-11.21.41:627][878]LogSavePackage: Save=13.48ms
+[2017.12.16-11.21.41:627][878]LogSavePackage: Moving 'E:/UE/Life/Saved/Game_Scenes_BuiltDataD073AE934CB0777E675979964A626F40.tmp' to 'E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset'
+[2017.12.16-11.21.41:628][878]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_Scenes/Game_Scenes_BuiltData.uasset
+[2017.12.16-11.22.00:178][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.22.00:231][948]LogSavePackage: Save=47.10ms
+[2017.12.16-11.22.00:231][948]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockAB3048E146DBCF32C3F123A124540198.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.22.00:233][948]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.22.00:433][959]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.16-11.22.05:978][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.22.06:024][287]LogSavePackage: Save=43.83ms
+[2017.12.16-11.22.06:024][287]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockA9941097408FFF7953A24BAB22743A9E.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.22.06:026][287]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.22.07:062][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.22.07:107][346]LogSavePackage: Save=43.57ms
+[2017.12.16-11.22.07:107][346]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockC0B14F3140E10B8E7DA49BA3810CA064.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.22.07:108][346]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.22.08:509][430]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-11.22.12:223][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.22.12:278][641]LogSavePackage: Save=51.93ms
+[2017.12.16-11.22.12:278][641]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockC123A43D438D9C311631949A7DBB4881.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.22.12:280][641]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.22.20:475][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.22.20:525][119]LogSavePackage: Save=48.29ms
+[2017.12.16-11.22.20:525][119]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock148A11A14B440CD12C0A3EAD7A11C8DA.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.22.20:526][119]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.22.27:515][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.22.27:563][523]LogSavePackage: Save=46.04ms
+[2017.12.16-11.22.27:563][523]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock4CA7DF7F47DAE27E4E320DB467561685.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.22.27:564][523]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.23.03:325][295]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-11.23.26:556][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.23.26:612][443]LogSavePackage: Save=54.59ms
+[2017.12.16-11.23.26:612][443]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock9BA1FC9448C467584DC23F920B978A5B.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.23.26:614][443]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.23.44:148][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.23.44:196][333]LogSavePackage: Save=46.09ms
+[2017.12.16-11.23.44:196][333]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock69C9963E44EE5AC9E02B5787AD389E28.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.23.44:198][333]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.23.45:351][390]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-11.23.46:035][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.23.46:092][414]LogSavePackage: Save=55.85ms
+[2017.12.16-11.23.46:092][414]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock8299AA134EC8114E9F6C61B0F0C59440.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.23.46:093][414]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.24.10:905][641]BlueprintLog: New page: Compile BP_Real_World
+[2017.12.16-11.24.11:522][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_real_World" FILE="E:/UE/Life/Content/Game_UMG/BP_real_World.uasset" SILENT=true
+[2017.12.16-11.24.11:544][665]LogSavePackage: Save=15.06ms
+[2017.12.16-11.24.11:544][665]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_real_WorldB89AD4284C379C6F58E0DF83E1E97EF0.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_real_World.uasset'
+[2017.12.16-11.24.11:544][665]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_real_World.uasset
+[2017.12.16-11.24.14:860][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.24.14:914][841]LogSavePackage: Save=51.33ms
+[2017.12.16-11.24.14:914][841]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockC3232A56434BCB8F0EE2C08904A88E2A.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.24.14:916][841]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.24.36:941][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Backpack_Slot" FILE="E:/UE/Life/Content/Game_UMG/BP_Backpack_Slot.uasset" SILENT=true
+[2017.12.16-11.24.37:007][ 89]LogSavePackage: Save=58.61ms
+[2017.12.16-11.24.37:007][ 89]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Backpack_Slot0B0712B94025DC2881FC2CA661E9D450.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Backpack_Slot.uasset'
+[2017.12.16-11.24.37:008][ 89]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Backpack_Slot.uasset
+[2017.12.16-11.24.51:920][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Backpack_Slot" FILE="E:/UE/Life/Content/Game_UMG/BP_Backpack_Slot.uasset" SILENT=true
+[2017.12.16-11.24.51:936][889]LogSavePackage: Save=13.50ms
+[2017.12.16-11.24.51:936][889]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Backpack_Slot80EC7614472AAE8BA98886B61A284D00.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Backpack_Slot.uasset'
+[2017.12.16-11.24.51:937][889]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Backpack_Slot.uasset
+[2017.12.16-11.24.52:748][932]BlueprintLog: New page: Compile BP_Backpack_Slot
+[2017.12.16-11.24.53:206][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Backpack_Slot" FILE="E:/UE/Life/Content/Game_UMG/BP_Backpack_Slot.uasset" SILENT=true
+[2017.12.16-11.24.53:221][943]LogSavePackage: Save=13.02ms
+[2017.12.16-11.24.53:221][943]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Backpack_Slot3C8C2FE94B0C008392E2C3B3283338C0.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Backpack_Slot.uasset'
+[2017.12.16-11.24.53:222][943]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Backpack_Slot.uasset
+[2017.12.16-11.24.58:340][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.24.58:390][211]LogSavePackage: Save=47.82ms
+[2017.12.16-11.24.58:390][211]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock6D2B99994E5920133B6D4C83F1EB44E8.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.24.58:390][211]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.25.15:760][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Backpack_Slot" FILE="E:/UE/Life/Content/Game_UMG/BP_Backpack_Slot.uasset" SILENT=true
+[2017.12.16-11.25.15:777][127]LogSavePackage: Save=13.94ms
+[2017.12.16-11.25.15:777][127]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Backpack_SlotB6FF9E344DB1F326818BE18D94D27653.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Backpack_Slot.uasset'
+[2017.12.16-11.25.15:778][127]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Backpack_Slot.uasset
+[2017.12.16-11.25.16:191][149]BlueprintLog: New page: Compile BP_Backpack_Slot
+[2017.12.16-11.25.28:016][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.25.28:068][737]LogSavePackage: Save=49.59ms
+[2017.12.16-11.25.28:068][737]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockF223C7B347F5844C684F9F967D70348F.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.25.28:069][737]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.25.32:447][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.25.32:499][970]LogSavePackage: Save=49.31ms
+[2017.12.16-11.25.32:499][970]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock0E67ED8B430893AC6B449DA02C2074EE.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.25.32:500][970]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.25.33:383][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.25.33:437][  8]LogSavePackage: Save=49.12ms
+[2017.12.16-11.25.33:437][  8]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock8755C6CF48A8FEF0C15A95A4FC4D4BD1.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.25.33:438][  8]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.25.38:696][275]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-11.25.38:979][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.25.39:035][277]LogSavePackage: Save=54.50ms
+[2017.12.16-11.25.39:036][277]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock9428F42A45052D34231314B50D5A831F.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.25.39:037][277]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.26.00:525][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Backpack_Slot" FILE="E:/UE/Life/Content/Game_UMG/BP_Backpack_Slot.uasset" SILENT=true
+[2017.12.16-11.26.00:542][452]LogSavePackage: Save=14.52ms
+[2017.12.16-11.26.00:542][452]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Backpack_Slot7D4B814046567A5DFE6B9BB85A5A8D82.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Backpack_Slot.uasset'
+[2017.12.16-11.26.00:543][452]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Backpack_Slot.uasset
+[2017.12.16-11.26.07:698][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Backpack_Slot" FILE="E:/UE/Life/Content/Game_UMG/BP_Backpack_Slot.uasset" SILENT=true
+[2017.12.16-11.26.07:714][843]LogSavePackage: Save=14.07ms
+[2017.12.16-11.26.07:714][843]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Backpack_Slot132C9FB94D1107596B3036A83C903A62.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Backpack_Slot.uasset'
+[2017.12.16-11.26.07:716][843]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Backpack_Slot.uasset
+[2017.12.16-11.26.09:134][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Backpack_Slot" FILE="E:/UE/Life/Content/Game_UMG/BP_Backpack_Slot.uasset" SILENT=true
+[2017.12.16-11.26.09:151][927]LogSavePackage: Save=14.86ms
+[2017.12.16-11.26.09:151][927]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Backpack_Slot6B597A8A4433212E3F4F34926EE85DC0.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Backpack_Slot.uasset'
+[2017.12.16-11.26.09:151][927]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Backpack_Slot.uasset
+[2017.12.16-11.26.13:634][195]BlueprintLog: New page: Compile BP_Backpack_Slot
+[2017.12.16-11.26.14:141][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Backpack_Slot" FILE="E:/UE/Life/Content/Game_UMG/BP_Backpack_Slot.uasset" SILENT=true
+[2017.12.16-11.26.14:160][215]LogSavePackage: Save=14.12ms
+[2017.12.16-11.26.14:160][215]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Backpack_Slot943AF0AF4A7CD12AB33502851C700AFF.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Backpack_Slot.uasset'
+[2017.12.16-11.26.14:162][215]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Backpack_Slot.uasset
+[2017.12.16-11.26.20:304][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.26.20:354][572]LogSavePackage: Save=46.11ms
+[2017.12.16-11.26.20:354][572]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock394537214EAD3BB9EDF4218DFBBCE79A.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.26.20:356][572]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.26.36:415][422]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-11.26.37:770][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.26.37:826][490]LogSavePackage: Save=53.61ms
+[2017.12.16-11.26.37:826][490]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockC0A9D7074A6D1F9E41A70DAD2B5B2949.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.26.37:828][490]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.26.49:156][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.26.49:205][151]LogSavePackage: Save=46.19ms
+[2017.12.16-11.26.49:205][151]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockB484E1F84AFCDBB58C21768B292706BF.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.26.49:206][151]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.27.39:711][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.27.39:768][ 83]LogSavePackage: Save=50.69ms
+[2017.12.16-11.27.39:768][ 83]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock5695A80B49DC7A6A147C9D995318FA23.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.27.39:770][ 83]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.27.40:398][120]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-11.27.53:568][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.27.53:632][877]LogSavePackage: Save=61.63ms
+[2017.12.16-11.27.53:632][877]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockD99659D5451A15E23A29F387873A669A.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.27.53:634][877]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.27.54:534][931]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-11.28.28:705][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.28.28:772][951]LogSavePackage: Save=65.26ms
+[2017.12.16-11.28.28:772][951]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockDABA9A724400DB6CDFA62FA88232E31D.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.28.28:773][951]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.28.32:852][194]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-11.28.33:167][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.28.33:235][200]LogSavePackage: Save=65.16ms
+[2017.12.16-11.28.33:235][200]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockB74376234B7FA1DA145338996104A579.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.28.33:236][200]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.28.37:840][474]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-11.28.38:468][497]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.16-11.28.38:619][497]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.16-11.28.38:767][497]PIE: New page: PIE session: Game_Scenes (Dec 17, 2017, 3:28:38 AM)
+[2017.12.16-11.28.38:790][497]LogPlayLevel: Creating play world package: /Game/Game_Scenes/UEDPIE_0_Game_Scenes
+[2017.12.16-11.28.38:902][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.111497s)
+[2017.12.16-11.28.38:930][497]LogAIModule: Creating AISystem for world Game_Scenes
+[2017.12.16-11.28.38:967][497]LogPlayLevel: PIE: World Init took: (0.052590s)
+[2017.12.16-11.28.38:982][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game_Scenes/Game_Scenes.Game_Scenes to /Game/Game_Scenes/UEDPIE_0_Game_Scenes.Game_Scenes (0.204818s)
+[2017.12.16-11.28.39:124][497]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.16-11.28.39:169][497]LogInit: FAudioDevice initialized.
+[2017.12.16-11.28.39:382][497]LogLoad: Game class is 'Shangda_Wu_GameMode_C'
+[2017.12.16-11.28.39:403][497]LogWorld: Bringing World /Game/Game_Scenes/UEDPIE_0_Game_Scenes.Game_Scenes up for play (max tick rate 60) at 2017.12.16-19.28.39
+[2017.12.16-11.28.39:414][497]LogWorld: Bringing up level for play took: 0.011975
+[2017.12.16-11.28.39:952][497]LogBlueprintUserMessages: [Shangda_Wu_GameMode_C_0] 读取玩家数据表
+[2017.12.16-11.28.40:000][497]PIE: Play in editor start time for /Game/Game_Scenes/UEDPIE_0_Game_Scenes 1.885
+[2017.12.16-11.28.48:985][983]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-11.28.49:713][ 15]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.16-11.28.49:748][ 15]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.16-11.28.49:748][ 15]PIE: New page: PIE session: Game_Scenes (Dec 17, 2017, 3:28:49 AM)
+[2017.12.16-11.28.49:748][ 15]LogPlayLevel: Creating play world package: /Game/Game_Scenes/UEDPIE_0_Game_Scenes
+[2017.12.16-11.28.49:749][ 15]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000640s)
+[2017.12.16-11.28.49:749][ 15]LogAIModule: Creating AISystem for world Game_Scenes
+[2017.12.16-11.28.49:749][ 15]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2017.12.16-11.28.49:750][ 15]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game_Scenes/Game_Scenes.Game_Scenes to /Game/Game_Scenes/UEDPIE_0_Game_Scenes.Game_Scenes (0.001444s)
+[2017.12.16-11.28.49:776][ 15]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.16-11.28.49:797][ 15]LogInit: FAudioDevice initialized.
+[2017.12.16-11.28.49:844][ 15]LogLoad: Game class is 'Shangda_Wu_GameMode_C'
+[2017.12.16-11.28.49:846][ 15]LogWorld: Bringing World /Game/Game_Scenes/UEDPIE_0_Game_Scenes.Game_Scenes up for play (max tick rate 60) at 2017.12.16-19.28.49
+[2017.12.16-11.28.49:846][ 15]LogWorld: Bringing up level for play took: 0.000513
+[2017.12.16-11.28.49:850][ 15]LogBlueprintUserMessages: [Shangda_Wu_GameMode_C_0] 读取玩家数据表
+[2017.12.16-11.28.49:856][ 15]PIE: Play in editor start time for /Game/Game_Scenes/UEDPIE_0_Game_Scenes -0.259
+[2017.12.16-11.29.11:103][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.29.11:169][232]LogSavePackage: Save=63.87ms
+[2017.12.16-11.29.11:169][232]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock466B008044DA0E3F529F2AB88E50C843.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.29.11:171][232]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.29.22:156][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.29.22:217][875]LogSavePackage: Save=56.12ms
+[2017.12.16-11.29.22:217][875]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock5E5F9A83425F7157FE5AA193F4F74492.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.29.22:219][875]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.29.23:886][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.29.23:948][972]LogSavePackage: Save=59.64ms
+[2017.12.16-11.29.23:948][972]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockEEB54C804510BCC229839497D4650466.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.29.23:949][972]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.29.28:676][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.29.28:734][254]LogSavePackage: Save=55.95ms
+[2017.12.16-11.29.28:735][254]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockB41AECB04D909E5B88F325B6247DA1E9.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.29.28:735][254]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.29.29:626][307]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-11.29.30:633][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.29.30:702][355]LogSavePackage: Save=67.21ms
+[2017.12.16-11.29.30:703][355]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock45128292489181D1991283905CA67BB1.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.29.30:703][355]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.30.28:138][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.30.28:198][796]LogSavePackage: Save=57.34ms
+[2017.12.16-11.30.28:198][796]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock72F508B34A8FF87EAD832B8E44AF8F64.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.30.28:200][796]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.31.42:151][226]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-11.31.42:791][253]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.16-11.31.42:828][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.16-11.31.42:828][253]PIE: New page: PIE session: Game_Scenes (Dec 17, 2017, 3:31:42 AM)
+[2017.12.16-11.31.42:829][253]LogPlayLevel: Creating play world package: /Game/Game_Scenes/UEDPIE_0_Game_Scenes
+[2017.12.16-11.31.42:829][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000769s)
+[2017.12.16-11.31.42:830][253]LogAIModule: Creating AISystem for world Game_Scenes
+[2017.12.16-11.31.42:830][253]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2017.12.16-11.31.42:830][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game_Scenes/Game_Scenes.Game_Scenes to /Game/Game_Scenes/UEDPIE_0_Game_Scenes.Game_Scenes (0.001749s)
+[2017.12.16-11.31.42:856][253]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.16-11.31.42:879][253]LogInit: FAudioDevice initialized.
+[2017.12.16-11.31.42:928][253]LogLoad: Game class is 'Shangda_Wu_GameMode_C'
+[2017.12.16-11.31.42:929][253]LogWorld: Bringing World /Game/Game_Scenes/UEDPIE_0_Game_Scenes.Game_Scenes up for play (max tick rate 60) at 2017.12.16-19.31.42
+[2017.12.16-11.31.42:930][253]LogWorld: Bringing up level for play took: 0.001137
+[2017.12.16-11.31.42:935][253]LogBlueprintUserMessages: [Shangda_Wu_GameMode_C_0] 读取玩家数据表
+[2017.12.16-11.31.42:940][253]PIE: Play in editor start time for /Game/Game_Scenes/UEDPIE_0_Game_Scenes 0.825
+[2017.12.16-11.31.55:541][963]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-11.31.55:998][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.31.56:065][978]LogSavePackage: Save=65.15ms
+[2017.12.16-11.31.56:065][978]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock2376C2A74771A84C7DBAEABC828DCCD9.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.31.56:067][978]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.31.56:736][ 18]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.16-11.31.56:773][ 18]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.16-11.31.56:773][ 18]PIE: New page: PIE session: Game_Scenes (Dec 17, 2017, 3:31:56 AM)
+[2017.12.16-11.31.56:773][ 18]LogPlayLevel: Creating play world package: /Game/Game_Scenes/UEDPIE_0_Game_Scenes
+[2017.12.16-11.31.56:774][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000739s)
+[2017.12.16-11.31.56:774][ 18]LogAIModule: Creating AISystem for world Game_Scenes
+[2017.12.16-11.31.56:774][ 18]LogPlayLevel: PIE: World Init took: (0.000591s)
+[2017.12.16-11.31.56:774][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game_Scenes/Game_Scenes.Game_Scenes to /Game/Game_Scenes/UEDPIE_0_Game_Scenes.Game_Scenes (0.001555s)
+[2017.12.16-11.31.56:803][ 18]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.16-11.31.56:823][ 18]LogInit: FAudioDevice initialized.
+[2017.12.16-11.31.56:872][ 18]LogLoad: Game class is 'Shangda_Wu_GameMode_C'
+[2017.12.16-11.31.56:873][ 18]LogWorld: Bringing World /Game/Game_Scenes/UEDPIE_0_Game_Scenes.Game_Scenes up for play (max tick rate 60) at 2017.12.16-19.31.56
+[2017.12.16-11.31.56:873][ 18]LogWorld: Bringing up level for play took: 0.000644
+[2017.12.16-11.31.56:877][ 18]LogBlueprintUserMessages: [Shangda_Wu_GameMode_C_0] 读取玩家数据表
+[2017.12.16-11.31.56:882][ 18]PIE: Play in editor start time for /Game/Game_Scenes/UEDPIE_0_Game_Scenes 0.767
+[2017.12.16-11.32.51:766][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.32.51:831][245]LogSavePackage: Save=57.82ms
+[2017.12.16-11.32.51:831][245]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockC2C4E68C41830C87DF9A269D7F9893F0.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.32.51:833][245]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.32.52:684][296]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-11.32.53:330][323]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.16-11.32.53:366][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.16-11.32.53:366][323]PIE: New page: PIE session: Game_Scenes (Dec 17, 2017, 3:32:53 AM)
+[2017.12.16-11.32.53:366][323]LogPlayLevel: Creating play world package: /Game/Game_Scenes/UEDPIE_0_Game_Scenes
+[2017.12.16-11.32.53:367][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000625s)
+[2017.12.16-11.32.53:367][323]LogAIModule: Creating AISystem for world Game_Scenes
+[2017.12.16-11.32.53:367][323]LogPlayLevel: PIE: World Init took: (0.000591s)
+[2017.12.16-11.32.53:367][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game_Scenes/Game_Scenes.Game_Scenes to /Game/Game_Scenes/UEDPIE_0_Game_Scenes.Game_Scenes (0.001417s)
+[2017.12.16-11.32.53:395][323]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.16-11.32.53:415][323]LogInit: FAudioDevice initialized.
+[2017.12.16-11.32.53:464][323]LogLoad: Game class is 'Shangda_Wu_GameMode_C'
+[2017.12.16-11.32.53:466][323]LogWorld: Bringing World /Game/Game_Scenes/UEDPIE_0_Game_Scenes.Game_Scenes up for play (max tick rate 60) at 2017.12.16-19.32.53
+[2017.12.16-11.32.53:466][323]LogWorld: Bringing up level for play took: 0.000628
+[2017.12.16-11.32.53:472][323]LogBlueprintUserMessages: [Shangda_Wu_GameMode_C_0] 读取玩家数据表
+[2017.12.16-11.32.53:481][323]PIE: Play in editor start time for /Game/Game_Scenes/UEDPIE_0_Game_Scenes -0.634
+[2017.12.16-11.33.35:404][632]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-11.33.35:988][650]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.16-11.33.36:036][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.16-11.33.36:036][650]PIE: New page: PIE session: Game_Scenes (Dec 17, 2017, 3:33:36 AM)
+[2017.12.16-11.33.36:036][650]LogPlayLevel: Creating play world package: /Game/Game_Scenes/UEDPIE_0_Game_Scenes
+[2017.12.16-11.33.36:037][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000623s)
+[2017.12.16-11.33.36:037][650]LogAIModule: Creating AISystem for world Game_Scenes
+[2017.12.16-11.33.36:038][650]LogPlayLevel: PIE: World Init took: (0.000514s)
+[2017.12.16-11.33.36:038][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game_Scenes/Game_Scenes.Game_Scenes to /Game/Game_Scenes/UEDPIE_0_Game_Scenes.Game_Scenes (0.001340s)
+[2017.12.16-11.33.36:064][650]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.16-11.33.36:084][650]LogInit: FAudioDevice initialized.
+[2017.12.16-11.33.36:131][650]LogLoad: Game class is 'Shangda_Wu_GameMode_C'
+[2017.12.16-11.33.36:136][650]LogWorld: Bringing World /Game/Game_Scenes/UEDPIE_0_Game_Scenes.Game_Scenes up for play (max tick rate 60) at 2017.12.16-19.33.36
+[2017.12.16-11.33.36:136][650]LogWorld: Bringing up level for play took: 0.003638
+[2017.12.16-11.33.36:143][650]LogBlueprintUserMessages: [Shangda_Wu_GameMode_C_0] 读取玩家数据表
+[2017.12.16-11.33.36:148][650]PIE: Play in editor start time for /Game/Game_Scenes/UEDPIE_0_Game_Scenes 0.034
+[2017.12.16-11.33.57:936][592]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-11.33.58:418][606]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.16-11.33.58:455][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.16-11.33.58:455][606]PIE: New page: PIE session: Game_Scenes (Dec 17, 2017, 3:33:58 AM)
+[2017.12.16-11.33.58:455][606]LogPlayLevel: Creating play world package: /Game/Game_Scenes/UEDPIE_0_Game_Scenes
+[2017.12.16-11.33.58:455][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000699s)
+[2017.12.16-11.33.58:456][606]LogAIModule: Creating AISystem for world Game_Scenes
+[2017.12.16-11.33.58:456][606]LogPlayLevel: PIE: World Init took: (0.000565s)
+[2017.12.16-11.33.58:456][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game_Scenes/Game_Scenes.Game_Scenes to /Game/Game_Scenes/UEDPIE_0_Game_Scenes.Game_Scenes (0.001475s)
+[2017.12.16-11.33.58:483][606]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.16-11.33.58:502][606]LogInit: FAudioDevice initialized.
+[2017.12.16-11.33.58:550][606]LogLoad: Game class is 'Shangda_Wu_GameMode_C'
+[2017.12.16-11.33.58:552][606]LogWorld: Bringing World /Game/Game_Scenes/UEDPIE_0_Game_Scenes.Game_Scenes up for play (max tick rate 60) at 2017.12.16-19.33.58
+[2017.12.16-11.33.58:552][606]LogWorld: Bringing up level for play took: 0.000512
+[2017.12.16-11.33.58:559][606]LogBlueprintUserMessages: [Shangda_Wu_GameMode_C_0] 读取玩家数据表
+[2017.12.16-11.33.58:566][606]PIE: Play in editor start time for /Game/Game_Scenes/UEDPIE_0_Game_Scenes 0.451
+[2017.12.16-11.34.34:114][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.34.34:183][ 90]LogSavePackage: Save=66.24ms
+[2017.12.16-11.34.34:183][ 90]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock11FAF0544AFAF5EA27870F8D4FFF2CAB.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.34.34:185][ 90]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.34.35:317][145]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-11.34.35:886][163]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.16-11.34.35:921][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.16-11.34.35:921][163]PIE: New page: PIE session: Game_Scenes (Dec 17, 2017, 3:34:35 AM)
+[2017.12.16-11.34.35:922][163]LogPlayLevel: Creating play world package: /Game/Game_Scenes/UEDPIE_0_Game_Scenes
+[2017.12.16-11.34.35:922][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000616s)
+[2017.12.16-11.34.35:923][163]LogAIModule: Creating AISystem for world Game_Scenes
+[2017.12.16-11.34.35:923][163]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2017.12.16-11.34.35:923][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game_Scenes/Game_Scenes.Game_Scenes to /Game/Game_Scenes/UEDPIE_0_Game_Scenes.Game_Scenes (0.001541s)
+[2017.12.16-11.34.35:954][163]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.16-11.34.35:974][163]LogInit: FAudioDevice initialized.
+[2017.12.16-11.34.36:023][163]LogLoad: Game class is 'Shangda_Wu_GameMode_C'
+[2017.12.16-11.34.36:024][163]LogWorld: Bringing World /Game/Game_Scenes/UEDPIE_0_Game_Scenes.Game_Scenes up for play (max tick rate 60) at 2017.12.16-19.34.36
+[2017.12.16-11.34.36:024][163]LogWorld: Bringing up level for play took: 0.000545
+[2017.12.16-11.34.36:035][163]LogBlueprintUserMessages: [Shangda_Wu_GameMode_C_0] 读取玩家数据表
+[2017.12.16-11.34.36:040][163]PIE: Play in editor start time for /Game/Game_Scenes/UEDPIE_0_Game_Scenes -0.074
+[2017.12.16-11.34.43:134][422]LogEditorTransaction: Undo Edit Vertical Alignment
+[2017.12.16-11.34.44:138][465]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2017.12.16-11.34.44:655][487]LogEditorTransaction: Undo Edit Vertical Alignment
+[2017.12.16-11.34.45:049][504]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2017.12.16-11.34.45:730][537]LogEditorTransaction: Undo Move Node
+[2017.12.16-11.34.52:078][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.34.52:145][843]LogSavePackage: Save=64.58ms
+[2017.12.16-11.34.52:145][843]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock272AB40C4D4A7E38A5B2DE82623EA2F2.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.34.52:146][843]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.35.13:280][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.35.13:343][ 84]LogSavePackage: Save=59.89ms
+[2017.12.16-11.35.13:343][ 84]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock6864E1A047E362098B6A1CA0FC0D5A1A.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.35.13:345][ 84]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.35.14:708][165]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-11.35.15:304][189]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.16-11.35.15:340][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.16-11.35.15:340][189]PIE: New page: PIE session: Game_Scenes (Dec 17, 2017, 3:35:15 AM)
+[2017.12.16-11.35.15:340][189]LogPlayLevel: Creating play world package: /Game/Game_Scenes/UEDPIE_0_Game_Scenes
+[2017.12.16-11.35.15:341][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000629s)
+[2017.12.16-11.35.15:341][189]LogAIModule: Creating AISystem for world Game_Scenes
+[2017.12.16-11.35.15:341][189]LogPlayLevel: PIE: World Init took: (0.000536s)
+[2017.12.16-11.35.15:342][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game_Scenes/Game_Scenes.Game_Scenes to /Game/Game_Scenes/UEDPIE_0_Game_Scenes.Game_Scenes (0.001396s)
+[2017.12.16-11.35.15:371][189]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.16-11.35.15:389][189]LogInit: FAudioDevice initialized.
+[2017.12.16-11.35.15:435][189]LogLoad: Game class is 'Shangda_Wu_GameMode_C'
+[2017.12.16-11.35.15:436][189]LogWorld: Bringing World /Game/Game_Scenes/UEDPIE_0_Game_Scenes.Game_Scenes up for play (max tick rate 60) at 2017.12.16-19.35.15
+[2017.12.16-11.35.15:436][189]LogWorld: Bringing up level for play took: 0.000508
+[2017.12.16-11.35.15:441][189]LogBlueprintUserMessages: [Shangda_Wu_GameMode_C_0] 读取玩家数据表
+[2017.12.16-11.35.15:446][189]PIE: Play in editor start time for /Game/Game_Scenes/UEDPIE_0_Game_Scenes -0.669
+[2017.12.16-11.35.21:963][559]LogEditorTransaction: Undo Create Pin Link
+[2017.12.16-11.35.22:401][583]LogEditorTransaction: Undo Change Number Pin Value
+[2017.12.16-11.35.22:755][602]LogEditorTransaction: Undo Change Number Pin Value
+[2017.12.16-11.35.23:101][621]LogEditorTransaction: Undo Create Pin Link
+[2017.12.16-11.35.23:446][640]LogEditorTransaction: Undo Move Node
+[2017.12.16-11.35.23:964][669]LogEditorTransaction: Undo Create Pin Link
+[2017.12.16-11.35.24:341][690]LogEditorTransaction: Undo Move Nodes
+[2017.12.16-11.35.24:823][717]LogEditorTransaction: Undo Move Node
+[2017.12.16-11.35.25:502][756]LogEditorTransaction: Undo Break Pin Links
+[2017.12.16-11.35.27:348][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.35.27:415][863]LogSavePackage: Save=65.00ms
+[2017.12.16-11.35.27:415][863]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock0DDD00FE490369FEEBD6E797CE012CD7.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.35.27:417][863]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.35.30:252][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.35.30:312][ 31]LogSavePackage: Save=58.49ms
+[2017.12.16-11.35.30:312][ 31]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockEB607CC44EE6BA45771C6FA407BC6929.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.35.30:313][ 31]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.35.30:613][ 48]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-11.35.31:130][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.35.31:244][ 66]LogSavePackage: Save=110.93ms
+[2017.12.16-11.35.31:244][ 66]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockB518BA414E5CD7FBF72E76AAE23E4683.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.35.31:244][ 66]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.35.32:263][127]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.16-11.35.32:299][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.16-11.35.32:299][127]PIE: New page: PIE session: Game_Scenes (Dec 17, 2017, 3:35:32 AM)
+[2017.12.16-11.35.32:300][127]LogPlayLevel: Creating play world package: /Game/Game_Scenes/UEDPIE_0_Game_Scenes
+[2017.12.16-11.35.32:300][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000673s)
+[2017.12.16-11.35.32:301][127]LogAIModule: Creating AISystem for world Game_Scenes
+[2017.12.16-11.35.32:301][127]LogPlayLevel: PIE: World Init took: (0.000600s)
+[2017.12.16-11.35.32:301][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game_Scenes/Game_Scenes.Game_Scenes to /Game/Game_Scenes/UEDPIE_0_Game_Scenes.Game_Scenes (0.001529s)
+[2017.12.16-11.35.32:328][127]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.16-11.35.32:348][127]LogInit: FAudioDevice initialized.
+[2017.12.16-11.35.32:395][127]LogLoad: Game class is 'Shangda_Wu_GameMode_C'
+[2017.12.16-11.35.32:396][127]LogWorld: Bringing World /Game/Game_Scenes/UEDPIE_0_Game_Scenes.Game_Scenes up for play (max tick rate 60) at 2017.12.16-19.35.32
+[2017.12.16-11.35.32:396][127]LogWorld: Bringing up level for play took: 0.000496
+[2017.12.16-11.35.32:402][127]LogBlueprintUserMessages: [Shangda_Wu_GameMode_C_0] 读取玩家数据表
+[2017.12.16-11.35.32:411][127]PIE: Play in editor start time for /Game/Game_Scenes/UEDPIE_0_Game_Scenes 0.296
+[2017.12.16-11.36.01:359][529]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-11.36.01:955][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.36.02:024][546]LogSavePackage: Save=66.61ms
+[2017.12.16-11.36.02:024][546]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock597A381542325A4E76A7EBA0F9218D3E.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.36.02:026][546]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.36.10:045][922]BlueprintLog: New page: Compile BP_Real_World
+[2017.12.16-11.36.11:020][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_real_World" FILE="E:/UE/Life/Content/Game_UMG/BP_real_World.uasset" SILENT=true
+[2017.12.16-11.36.11:045][963]LogSavePackage: Save=14.07ms
+[2017.12.16-11.36.11:045][963]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_real_WorldC3B1736C4369E46E43D361BF015E0400.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_real_World.uasset'
+[2017.12.16-11.36.11:045][963]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_real_World.uasset
+[2017.12.16-11.36.24:529][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_real_World" FILE="E:/UE/Life/Content/Game_UMG/BP_real_World.uasset" SILENT=true
+[2017.12.16-11.36.24:547][659]LogSavePackage: Save=15.51ms
+[2017.12.16-11.36.24:547][659]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_real_WorldC4BC3B4742DFEAEEC09C8A8C7BF76210.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_real_World.uasset'
+[2017.12.16-11.36.24:549][659]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_real_World.uasset
+[2017.12.16-11.36.39:535][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.36.39:599][375]LogSavePackage: Save=63.10ms
+[2017.12.16-11.36.39:600][375]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_Dock5EF3AE584C942BCF56126E9384CF68E3.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.36.39:601][375]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.36.40:384][412]BlueprintLog: New page: Compile BP_Player_Dock
+[2017.12.16-11.36.40:814][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_UMG/BP_Player_Dock" FILE="E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset" SILENT=true
+[2017.12.16-11.36.40:883][421]LogSavePackage: Save=66.96ms
+[2017.12.16-11.36.40:883][421]LogSavePackage: Moving 'E:/UE/Life/Saved/BP_Player_DockC1A34B654E1B27658289CBB48D0AC5BD.tmp' to 'E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset'
+[2017.12.16-11.36.40:884][421]LogSavePackage: Display: Finished SavePackage E:/UE/Life/Content/Game_UMG/BP_Player_Dock.uasset
+[2017.12.16-11.36.41:193][436]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.16-11.36.41:242][436]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.16-11.36.41:245][436]LogPlayLevel: [PlayLevel] Compiling BP_Real_World before play...
+[2017.12.16-11.36.41:385][436]LogPlayLevel: PlayLevel: Blueprint regeneration took 142 ms (1 blueprints)
+[2017.12.16-11.36.41:385][436]PIE: New page: PIE session: Game_Scenes (Dec 17, 2017, 3:36:41 AM)
+[2017.12.16-11.36.41:385][436]LogPlayLevel: Creating play world package: /Game/Game_Scenes/UEDPIE_0_Game_Scenes
+[2017.12.16-11.36.41:386][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000575s)
+[2017.12.16-11.36.41:386][436]LogAIModule: Creating AISystem for world Game_Scenes
+[2017.12.16-11.36.41:386][436]LogPlayLevel: PIE: World Init took: (0.000667s)
+[2017.12.16-11.36.41:386][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game_Scenes/Game_Scenes.Game_Scenes to /Game/Game_Scenes/UEDPIE_0_Game_Scenes.Game_Scenes (0.001424s)
+[2017.12.16-11.36.41:416][436]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.16-11.36.41:435][436]LogInit: FAudioDevice initialized.
+[2017.12.16-11.36.41:483][436]LogLoad: Game class is 'Shangda_Wu_GameMode_C'
+[2017.12.16-11.36.41:485][436]LogWorld: Bringing World /Game/Game_Scenes/UEDPIE_0_Game_Scenes.Game_Scenes up for play (max tick rate 60) at 2017.12.16-19.36.41
+[2017.12.16-11.36.41:485][436]LogWorld: Bringing up level for play took: 0.000819
+[2017.12.16-11.36.41:498][436]LogBlueprintUserMessages: [Shangda_Wu_GameMode_C_0] 读取玩家数据表
+[2017.12.16-11.36.41:505][436]PIE: Play in editor start time for /Game/Game_Scenes/UEDPIE_0_Game_Scenes -0.609
